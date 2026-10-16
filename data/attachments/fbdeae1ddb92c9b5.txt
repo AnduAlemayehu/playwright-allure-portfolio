@@ -1,0 +1,24 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+🎯 Update Unmatched Odds Test
+==============================
+💰 Stake from JSON: 100
+✅ Verify page loaded
+✅ Click In-Play
+🎯 Opening In-Play Page
+🔍 Checking unmatched bets...
+🔍 verifyUnmatchedBets() returned: true
+✅ Existing unmatched bets found
+
+✅ Availability unmatched bet checked
+
+🎯 Updating unmatched odds
+🎯 Current odds: 9
+📈 Updating odds → 11.00
+✅ updatesUnmatchedOdds() completed

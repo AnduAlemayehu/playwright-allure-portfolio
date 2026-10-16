@@ -1,0 +1,71 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+📱 BET PLACEMENT NOTIFICATION VALIDATION
+================================
+📱 Creating Bet Notification POM for UI Version: v1
+📱 Using MobileBetNotificationV1Page
+✅ Mobile Bet Notification page loaded
+🎯 Opening In Play...
+🎯 In Play opened
+⚽ Soccer selected
+
+🎯 Validating Matched Bet Notification
+
+🎯 Placing normal bet...
+
+🔎 Searching for available betting market...
+🔍 Checking SOCCER
+📊 SOCCER: 65 odds found
+🎯 Selecting odd: 3414.17 (button text: "Avl.: 3414.17")
+⚠️ Odd 3414.17 did not open betslip
+🎯 Selecting odd: 2.72 (button text: "2.72 | 1,896")
+⚠️ Odd 2.72 did not open betslip
+🎯 Selecting odd: 1.58 (button text: "1.58 | 12,753")
+⚠️ Odd 1.58 did not open betslip
+🎯 Selecting odd: 1.59 (button text: "1.59 | 12,753")
+⚠️ Odd 1.59 did not open betslip
+⏭️ No valid odd in button: "3,732,764"
+🎯 Selecting odd: 1.54 (button text: "1.54 | 47,376")
+⚠️ Odd 1.54 did not open betslip
+🎯 Selecting odd: 1.6 (button text: "1.6 | 11,607")
+⚠️ Odd 1.6 did not open betslip
+🎯 Selecting odd: 2.44 (button text: "2.44 | 282")
+⚠️ Odd 2.44 did not open betslip
+🎯 Selecting odd: 2.62 (button text: "2.62 | 108,840")
+⚠️ Odd 2.62 did not open betslip
+⏭️ No valid odd in button: "876,399"
+🎯 Selecting odd: 2.78 (button text: "2.78 | 91")
+⚠️ Odd 2.78 did not open betslip
+🎯 Selecting odd: 2.86 (button text: "2.86 | 91")
+⚠️ Odd 2.86 did not open betslip
+🎯 Selecting odd: 1.54 (button text: "1.54 | 897")
+⚠️ Odd 1.54 did not open betslip
+🎯 Selecting odd: 1.54 (button text: "1.54 | 739")
+⚠️ Odd 1.54 did not open betslip
+================================
+📱 MOBILE SESSION END
+================================
+
+⚠️ No usable odds found in SOCCER
+🔍 Checking TENNIS
+⚠️ TENNIS tab is not visible
+🔍 Checking CRICKET
+⚠️ CRICKET tab is not visible
+🔍 Checking HORSE
+⚠️ HORSE tab is not visible
+🔍 Checking GREYHOUND
+⚠️ GREYHOUND tab is not visible

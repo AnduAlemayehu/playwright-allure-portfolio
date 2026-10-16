@@ -1,0 +1,65 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 PROFIT & LOSS TEST STARTED
+📱 UI VERSION: v1
+==============================
+🔧 Using Mobile Profit & Loss V1 POM
+✔ Profit & Loss page loaded
+
+📅 Selecting date filter...
+✔ Last 15 Days filter selected
+
+🧾 Validating PnL page elements
+✔ Verified: Total Profit/Loss
+✔ Verified: Sport Name
+✔ Verified: Market Count
+✔ Verified: Market Name
+✔ Verified: Market Type
+✔ Verified: PnL Amount
+✅ PnL structure validated
+📊 Markets found: 9
+
+💰 Checking PnL values
+✔ PnL value: -578.85
+✔ PnL value: -398.85
+✔ PnL value: -108
+✔ PnL value: -100
+✔ PnL value: +92
+
+🔎 Opening first available market...
+🏆 Sports found: 3
+🏆 Checking sport: Cricket
+📊 Cricket: 7 market(s)
+🎯 Opening market: England Legends v Australia Legends
+✔ Market details opened: England Legends v Australia Legends
+
+🔎 Validating bet breakdown
+✔ Breakdown field: .bet-card__id
+✔ Breakdown field: .bet-card__date
+✔ Breakdown field: .bet-card__runner
+✔ Breakdown field: .bet-card__side-badge
+✔ Breakdown field: .bet-card__detail
+✔ Breakdown field: .bet-card__pnl
+✅ Detailed PnL breakdown available
+
+✅ PROFIT & LOSS TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

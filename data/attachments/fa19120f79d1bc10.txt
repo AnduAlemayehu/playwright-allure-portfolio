@@ -1,0 +1,25 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+🎯 Cancel Unmatched Bets Test
+==============================
+🎯 Odds value: 9
+🎯 Adjust odds 9 → 16.00
+✅ Bet placed: 1
+🎯 Odds value: 16
+🎯 Adjust odds 16 → 23.00
+✅ Bet placed: 2
+✅ Total unmatched bets created: 2
+
+ availablity unmatch bet checked 
+
+ Cancel single bet
+✅ Bet cancellation submitted successfully
+
+ Cancel all bets
+No bets available to cancel, skipping Cancel All test

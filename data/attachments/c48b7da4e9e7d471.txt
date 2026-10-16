@@ -1,0 +1,176 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+📱 Mobile Event Sorting
+📱 UI Version: V1
+================================
+
+🚀 START EVENT SORTING VALIDATION
+
+✅ In Play button visible
+⚽ Opening In Play
+✅ In Play events loaded: 7
+
+========== EVENT SORTING ==========
+Sorting Event Ascending
+✅ Name ascending sorting completed
+
+Ascending Event Order — World Championship of Legends T20
+┌─────────┬───────┬──────────────────────┐
+│ (index) │ Index │ Event                │
+├─────────┼───────┼──────────────────────┤
+│ 0       │ 0     │ 'Bangladesh Legends' │
+└─────────┴───────┴──────────────────────┘
+
+Ascending Event Order — Atlanta Open T20
+┌─────────┬───────┬──────────────────────────┐
+│ (index) │ Index │ Event                    │
+├─────────┼───────┼──────────────────────────┤
+│ 0       │ 0     │ 'East Bay Blazers'       │
+│ 1       │ 1     │ 'Michigan Cricket Stars' │
+│ 2       │ 2     │ 'Seattle Thunderbolts'   │
+└─────────┴───────┴──────────────────────────┘
+
+Ascending Event Order — International Twenty20 Matches
+┌─────────┬───────┬─────────┐
+│ (index) │ Index │ Event   │
+├─────────┼───────┼─────────┤
+│ 0       │ 0     │ 'India' │
+└─────────┴───────┴─────────┘
+
+Ascending Event Order — South Africa T20 Challenge
+┌─────────┬───────┬────────────────────┐
+│ (index) │ Index │ Event              │
+├─────────┼───────┼────────────────────┤
+│ 0       │ 0     │ 'Knights'          │
+│ 1       │ 1     │ 'Western Province' │
+└─────────┴───────┴────────────────────┘
+✅ Events are correctly sorted in ascending order within each competition
+Sorting Event Descending
+✅ Name descending sorting completed
+
+Descending Event Order — South Africa T20 Challenge
+┌─────────┬───────┬────────────────────┐
+│ (index) │ Index │ Event              │
+├─────────┼───────┼────────────────────┤
+│ 0       │ 0     │ 'Western Province' │
+│ 1       │ 1     │ 'Knights'          │
+└─────────┴───────┴────────────────────┘
+
+Descending Event Order — Atlanta Open T20
+┌─────────┬───────┬──────────────────────────┐
+│ (index) │ Index │ Event                    │
+├─────────┼───────┼──────────────────────────┤
+│ 0       │ 0     │ 'Seattle Thunderbolts'   │
+│ 1       │ 1     │ 'Michigan Cricket Stars' │
+│ 2       │ 2     │ 'East Bay Blazers'       │
+└─────────┴───────┴──────────────────────────┘
+
+Descending Event Order — International Twenty20 Matches
+┌─────────┬───────┬─────────┐
+│ (index) │ Index │ Event   │
+├─────────┼───────┼─────────┤
+│ 0       │ 0     │ 'India' │
+└─────────┴───────┴─────────┘
+
+Descending Event Order — World Championship of Legends T20
+┌─────────┬───────┬──────────────────────┐
+│ (index) │ Index │ Event                │
+├─────────┼───────┼──────────────────────┤
+│ 0       │ 0     │ 'Bangladesh Legends' │
+└─────────┴───────┴──────────────────────┘
+✅ Events are correctly sorted in descending order within each competition
+
+========== VOLUME SORTING ==========
+Sorting Volume Ascending
+✅ Volume ascending sorting completed
+
+Ascending Volume Order — Atlanta Open T20
+┌─────────┬───────┬────────┐
+│ (index) │ Index │ Volume │
+├─────────┼───────┼────────┤
+│ 0       │ 0     │ 19967  │
+│ 1       │ 1     │ 115623 │
+│ 2       │ 2     │ 120567 │
+└─────────┴───────┴────────┘
+
+Ascending Volume Order — South Africa T20 Challenge
+┌─────────┬───────┬─────────┐
+│ (index) │ Index │ Volume  │
+├─────────┼───────┼─────────┤
+│ 0       │ 0     │ 769910  │
+│ 1       │ 1     │ 3330165 │
+└─────────┴───────┴─────────┘
+
+Ascending Volume Order — World Championship of Legends T20
+┌─────────┬───────┬──────────┐
+│ (index) │ Index │ Volume   │
+├─────────┼───────┼──────────┤
+│ 0       │ 0     │ 10891989 │
+└─────────┴───────┴──────────┘
+
+Ascending Volume Order — International Twenty20 Matches
+┌─────────┬───────┬───────────┐
+│ (index) │ Index │ Volume    │
+├─────────┼───────┼───────────┤
+│ 0       │ 0     │ 679737382 │
+└─────────┴───────┴───────────┘
+✅ Volumes are correctly sorted in ascending order within each competition
+Sorting Volume Descending
+✅ Volume descending sorting completed
+
+Descending Volume Order — International Twenty20 Matches
+┌─────────┬───────┬───────────┐
+│ (index) │ Index │ Volume    │
+├─────────┼───────┼───────────┤
+│ 0       │ 0     │ 680147785 │
+└─────────┴───────┴───────────┘
+
+Descending Volume Order — World Championship of Legends T20
+┌─────────┬───────┬──────────┐
+│ (index) │ Index │ Volume   │
+├─────────┼───────┼──────────┤
+│ 0       │ 0     │ 10892365 │
+└─────────┴───────┴──────────┘
+
+Descending Volume Order — South Africa T20 Challenge
+┌─────────┬───────┬─────────┐
+│ (index) │ Index │ Volume  │
+├─────────┼───────┼─────────┤
+│ 0       │ 0     │ 3330165 │
+│ 1       │ 1     │ 772404  │
+└─────────┴───────┴─────────┘
+
+Descending Volume Order — Atlanta Open T20
+┌─────────┬───────┬────────┐
+│ (index) │ Index │ Volume │
+├─────────┼───────┼────────┤
+│ 0       │ 0     │ 120567 │
+│ 1       │ 1     │ 115623 │
+│ 2       │ 2     │ 19967  │
+└─────────┴───────┴────────┘
+✅ Volumes are correctly sorted in descending order within each competition
+
+🎉 EVENT SORTING VALIDATION PASSED
+
+
+✅ TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

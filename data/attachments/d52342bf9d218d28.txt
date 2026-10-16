@@ -1,0 +1,16 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+🎯 MARKET CONSISTENCY TEST
+==============================
+🎯 Event Name: India v West Indies
+📊 Market Name: Match Odds
+🏆 Team Name: India
+✅ First odds selected
+✅ Event and market context retained on the event page
+✅ Team Name matched in Bet Slip (scoped)

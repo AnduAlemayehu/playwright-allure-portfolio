@@ -1,0 +1,10 @@
+🖥 Body class: mat-typography skin-classic-active freedemokit_com
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+Verified presence of sport: Cricket
+Verified presence of sport: Soccer
+Verified presence of sport: Tennis
+Verified presence of sport: Horse Racing

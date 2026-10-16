@@ -1,0 +1,49 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+🎯 EARLY BET PLACEMENT TEST
+================================
+
+📱 Mobile UI Version detected: V1
+📱 Running Early Bet test against V1
+🎯 Early Bet POM initialized: V1
+🎯 Capturing selected odd...
+🎯 Selected Odd: 2.42
+41
+🎯 Selected Odd: 2.42
+41
+🎯 Latest Bet: {
+  betId: '89278',
+  description: 'BBK Partnership v Colombo Aces / Completed Match / Yes\n' +
+    '\n' +
+    'Singer MCA Super Premier League',
+  type: 'BACK',
+  odds: '1.01',
+  price: '1.01',
+  stake: '100',
+  profit: '1',
+  status: 'MATCHED'
+}
+
+================================
+✅ V1 EARLY BET TEST COMPLETED
+================================
+
+================================
+📱 MOBILE SESSION END
+================================
+

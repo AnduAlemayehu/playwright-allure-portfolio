@@ -1,0 +1,135 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+🚀 START COMMISSION DESCRIPTION VALIDATION
+
+✔ Account Statement opened
+✔ Last 15 days filter applied
+✔ Commission rows found: 15
+
+============================
+DESC: Qatar v Bahrain / COMPLETED_MATCH / 4.5% On Net Winnings of 1.00 ICC Men s T20 WC Asia Qualifier
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Qatar v Bahrain / MATCH_ODDS / 4.5% On Net Winnings of 218.00 ICC Men s T20 WC Asia Qualifier
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Alice Tubello v Josy Daems / MATCH_ODDS / 4.5% On Net Winnings of 1.00 ITF W35 Heraklion GRE
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Bandirmaspor v Sivasspor / MATCH_ODDS / 4.5% On Net Winnings of 30.00 Turkish 1 Lig
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: South Africa v Australia / TEAMA_2ND_INN_BATTER / 4.5% On Net Winnings of 25.00 Test Matches
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: M Giunta v Searle / MATCH_ODDS / 4.5% On Net Winnings of 51.00 Catania Challenger 2026
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Al Wahda KSA v Al Taee / MATCH_ODDS / 4.5% On Net Winnings of 64.00 Saudi 1st Division
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Andorra W v Faroe Islands W / MATCH_ODDS / 4.5% On Net Winnings of 78.00 Friendlies Women s International
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Paul v Vacherot / MATCH_ODDS / 4.5% On Net Winnings of 47.00 ATP Shanghai 2026
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Western Australia v Queensland Bulls / MATCH_ODDS / 4.5% On Net Winnings of 90.00 Sheffield Shield
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Mohun Bagan Super Giants v Quess East Bengal / MATCH_ODDS / 4.5% On Net Winnings of 600.00 Indian IFA Shield
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Britt Du Pree v Carlotta Moccia / MATCH_ODDS / 4.5% On Net Winnings of 4.00 ITF W35 Lagos POR
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Kickstart FC v United Stars / MATCH_ODDS / 4.5% On Net Winnings of 1406.00 Bangalore Super Division League
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Buriram United U21 v Pattaya United U21 / MATCH_ODDS / 4.5% On Net Winnings of 44.00 Thai U21 League
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+============================
+DESC: Western Province W v South Western Districts W / MATCH_ODDS / 17.5% On Net Winnings of 76.00 CSA Womens Pro50
+============================
+✔ Commission percentage displayed correctly
+✔ Net winnings amount displayed correctly
+✔ Market/status displayed correctly
+✔ Description formatting is valid
+
+🎉 COMMISSION DESCRIPTION VALIDATION PASSED
+

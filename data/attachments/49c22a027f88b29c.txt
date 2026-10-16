@@ -1,0 +1,13 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+Desktop event clicked
+equalizer
+India
+45.00
+======= BEFORE PLACE BET =======
+{ value: '1.5504,851', time: '15:49:52:152' }
+📝 Entering stake: 100

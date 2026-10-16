@@ -1,0 +1,1071 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - generic [ref=e10]:
+      - banner [ref=e12]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - button [ref=e19] [cursor=pointer]:
+              - generic [ref=e21]:
+                - img:
+                  - generic:
+                    - img
+            - generic [ref=e22]:
+              - img [ref=e24]:
+                - img [ref=e26]
+              - textbox [ref=e28]:
+                - /placeholder: Find team, markets, events
+          - generic [ref=e29]:
+            - button [ref=e32] [cursor=pointer]:
+              - img [ref=e33]:
+                - img [ref=e35]
+            - generic [ref=e37]:
+              - button [ref=e38] [cursor=pointer]: "Avl.: 2881.17"
+              - paragraph [ref=e39]: "Exp.: -2,395.18"
+            - button [ref=e41] [cursor=pointer]:
+              - generic [ref=e42]:
+                - img:
+                  - generic:
+                    - img
+      - main [ref=e43]:
+        - generic [ref=e46]:
+          - generic [ref=e48]:
+            - tab [ref=e49] [cursor=pointer]:
+              - generic [ref=e50]: Cricket
+            - tab [selected] [ref=e51] [cursor=pointer]:
+              - generic [ref=e52]: Soccer
+            - tab [ref=e53] [cursor=pointer]:
+              - generic [ref=e54]: Tennis
+            - tab [ref=e55] [cursor=pointer]:
+              - generic [ref=e56]: Horse
+          - generic [ref=e59]:
+            - generic [ref=e62]:
+              - button [ref=e63] [cursor=pointer]:
+                - text: In Play
+                - generic [ref=e64]: "9"
+              - button [ref=e65] [cursor=pointer]: Popular
+              - button [ref=e66] [cursor=pointer]: Upcoming
+              - button [ref=e67] [cursor=pointer]: Competition
+            - generic [ref=e69]:
+              - button [ref=e70] [cursor=pointer]: Oct 14, 2026
+              - button [ref=e71] [cursor=pointer]: Oct 15, 2026
+              - button [ref=e72] [cursor=pointer]: Oct 16, 2026
+            - generic [ref=e74]:
+              - generic [ref=e76] [cursor=pointer]:
+                - generic [ref=e77]: EVENT
+                - img [ref=e79]
+              - generic [ref=e81] [cursor=pointer]:
+                - generic [ref=e82]: VOLUME
+                - img [ref=e84]
+              - generic [ref=e85]:
+                - generic [ref=e86]: "1"
+                - generic [ref=e87]: DRAW
+                - generic [ref=e88]: "2"
+            - generic [ref=e89] [cursor=pointer]:
+              - generic [ref=e90]: UEFA Champions League
+              - img [ref=e91]:
+                - img [ref=e93]
+            - generic [ref=e96]:
+              - generic [ref=e97] [cursor=pointer]:
+                - button [ref=e98]:
+                  - generic [ref=e99]: View event
+                - button [ref=e100]:
+                  - img [ref=e101]:
+                    - img [ref=e103]
+              - button [ref=e105] [cursor=pointer]
+              - generic [ref=e107]:
+                - button [ref=e108] [cursor=pointer]:
+                  - generic [ref=e109]: View event
+                - generic [ref=e110]:
+                  - button [ref=e113] [cursor=pointer]
+                  - button [ref=e119] [cursor=pointer]
+                  - button [ref=e125] [cursor=pointer]
+                  - button [ref=e131] [cursor=pointer]
+                  - button [ref=e137] [cursor=pointer]
+                  - button [ref=e143] [cursor=pointer]
+            - generic [ref=e148]:
+              - generic [ref=e149] [cursor=pointer]:
+                - button [ref=e150]:
+                  - generic [ref=e151]: View event
+                - button [ref=e152]:
+                  - img [ref=e153]:
+                    - img [ref=e155]
+              - button [ref=e157] [cursor=pointer]
+              - generic [ref=e159]:
+                - button [ref=e160] [cursor=pointer]:
+                  - generic [ref=e161]: View event
+                - generic [ref=e162]:
+                  - button [ref=e165] [cursor=pointer]
+                  - button [ref=e171] [cursor=pointer]
+                  - button [ref=e177] [cursor=pointer]
+                  - button [ref=e183] [cursor=pointer]
+                  - button [ref=e189] [cursor=pointer]
+                  - button [ref=e195] [cursor=pointer]
+            - generic [ref=e200]:
+              - generic [ref=e201] [cursor=pointer]:
+                - button [ref=e202]:
+                  - generic [ref=e203]: View event
+                - button [ref=e204]:
+                  - img [ref=e205]:
+                    - img [ref=e207]
+              - button [ref=e209] [cursor=pointer]
+              - generic [ref=e211]:
+                - button [ref=e212] [cursor=pointer]:
+                  - generic [ref=e213]: View event
+                - generic [ref=e214]:
+                  - button [ref=e217] [cursor=pointer]
+                  - button [ref=e223] [cursor=pointer]
+                  - button [ref=e229] [cursor=pointer]
+                  - button [ref=e235] [cursor=pointer]
+                  - button [ref=e241] [cursor=pointer]
+                  - button [ref=e247] [cursor=pointer]
+            - generic [ref=e252]:
+              - generic [ref=e253] [cursor=pointer]:
+                - button [ref=e254]:
+                  - generic [ref=e255]: View event
+                - button [ref=e256]:
+                  - img [ref=e257]:
+                    - img [ref=e259]
+              - button [ref=e261] [cursor=pointer]
+              - generic [ref=e263]:
+                - button [ref=e264] [cursor=pointer]:
+                  - generic [ref=e265]: View event
+                - generic [ref=e266]:
+                  - button [ref=e269] [cursor=pointer]
+                  - button [ref=e275] [cursor=pointer]
+                  - button [ref=e281] [cursor=pointer]
+                  - button [ref=e287] [cursor=pointer]
+                  - button [ref=e293] [cursor=pointer]
+                  - button [ref=e299] [cursor=pointer]
+            - generic [ref=e304]:
+              - generic [ref=e305] [cursor=pointer]:
+                - button [ref=e306]:
+                  - generic [ref=e307]: View event
+                - button [ref=e308]:
+                  - img [ref=e309]:
+                    - img [ref=e311]
+              - button [ref=e313] [cursor=pointer]
+              - generic [ref=e315]:
+                - button [ref=e316] [cursor=pointer]:
+                  - generic [ref=e317]: View event
+                - generic [ref=e318]:
+                  - button [ref=e321] [cursor=pointer]
+                  - button [ref=e327] [cursor=pointer]
+                  - button [ref=e333] [cursor=pointer]
+                  - button [ref=e339] [cursor=pointer]
+                  - button [ref=e345] [cursor=pointer]
+                  - button [ref=e351] [cursor=pointer]
+            - generic [ref=e356]:
+              - generic [ref=e357] [cursor=pointer]:
+                - button [ref=e358]:
+                  - generic [ref=e359]: View event
+                - button [ref=e360]:
+                  - img [ref=e361]:
+                    - img [ref=e363]
+              - button [ref=e365] [cursor=pointer]
+              - generic [ref=e367]:
+                - button [ref=e368] [cursor=pointer]:
+                  - generic [ref=e369]: View event
+                - generic [ref=e370]:
+                  - button [ref=e373] [cursor=pointer]
+                  - button [ref=e379] [cursor=pointer]
+                  - button [ref=e385] [cursor=pointer]
+                  - button [ref=e391] [cursor=pointer]
+                  - button [ref=e397] [cursor=pointer]
+                  - button [ref=e403] [cursor=pointer]
+            - generic [ref=e408]:
+              - generic [ref=e409] [cursor=pointer]:
+                - button [ref=e410]:
+                  - generic [ref=e411]: View event
+                - button [ref=e412]:
+                  - img [ref=e413]:
+                    - img [ref=e415]
+              - button [ref=e417] [cursor=pointer]
+              - generic [ref=e419]:
+                - button [ref=e420] [cursor=pointer]:
+                  - generic [ref=e421]: View event
+                - generic [ref=e422]:
+                  - button [ref=e425] [cursor=pointer]
+                  - button [ref=e431] [cursor=pointer]
+                  - button [ref=e437] [cursor=pointer]
+                  - button [ref=e443] [cursor=pointer]
+                  - button [ref=e449] [cursor=pointer]
+                  - button [ref=e455] [cursor=pointer]
+            - generic [ref=e460]:
+              - generic [ref=e461] [cursor=pointer]:
+                - button [ref=e462]:
+                  - generic [ref=e463]: View event
+                - button [ref=e464]:
+                  - img [ref=e465]:
+                    - img [ref=e467]
+              - button [ref=e469] [cursor=pointer]
+              - generic [ref=e471]:
+                - button [ref=e472] [cursor=pointer]:
+                  - generic [ref=e473]: View event
+                - generic [ref=e474]:
+                  - button [ref=e477] [cursor=pointer]
+                  - button [ref=e483] [cursor=pointer]
+                  - button [ref=e489] [cursor=pointer]
+                  - button [ref=e495] [cursor=pointer]
+                  - button [ref=e501] [cursor=pointer]
+                  - button [ref=e507] [cursor=pointer]
+            - generic [ref=e512]:
+              - generic [ref=e513] [cursor=pointer]:
+                - button [ref=e514]:
+                  - generic [ref=e515]: View event
+                - button [ref=e516]:
+                  - img [ref=e517]:
+                    - img [ref=e519]
+              - button [ref=e521] [cursor=pointer]
+              - generic [ref=e523]:
+                - button [ref=e524] [cursor=pointer]:
+                  - generic [ref=e525]: View event
+                - generic [ref=e526]:
+                  - button [ref=e529] [cursor=pointer]
+                  - button [ref=e535] [cursor=pointer]
+                  - button [ref=e541] [cursor=pointer]
+                  - button [ref=e547] [cursor=pointer]
+                  - button [ref=e553] [cursor=pointer]
+                  - button [ref=e559] [cursor=pointer]
+            - generic [ref=e563] [cursor=pointer]:
+              - generic [ref=e564]: Cypriot Cup
+              - img [ref=e565]:
+                - img [ref=e567]
+            - generic [ref=e570]:
+              - generic [ref=e571] [cursor=pointer]:
+                - button [ref=e572]:
+                  - generic [ref=e573]: View event
+                - button [ref=e574]:
+                  - img [ref=e575]:
+                    - img [ref=e577]
+              - button [ref=e579] [cursor=pointer]
+              - generic [ref=e581]:
+                - button [ref=e582] [cursor=pointer]:
+                  - generic [ref=e583]: View event
+                - generic [ref=e584]:
+                  - button [ref=e587] [cursor=pointer]
+                  - button [ref=e593] [cursor=pointer]
+                  - button [ref=e599] [cursor=pointer]
+                  - button [ref=e605] [cursor=pointer]
+                  - button [ref=e611] [cursor=pointer]
+                  - button [ref=e617] [cursor=pointer]
+            - generic [ref=e621] [cursor=pointer]:
+              - generic [ref=e622]: German 3 Liga
+              - img [ref=e623]:
+                - img [ref=e625]
+            - generic [ref=e628]:
+              - generic [ref=e629] [cursor=pointer]:
+                - button [ref=e630]:
+                  - generic [ref=e631]: View event
+                - button [ref=e632]:
+                  - img [ref=e633]:
+                    - img [ref=e635]
+              - button [ref=e637] [cursor=pointer]
+              - generic [ref=e639]:
+                - button [ref=e640] [cursor=pointer]:
+                  - generic [ref=e641]: View event
+                - generic [ref=e642]:
+                  - button [ref=e645] [cursor=pointer]
+                  - button [ref=e651] [cursor=pointer]
+                  - button [ref=e657] [cursor=pointer]
+                  - button [ref=e663] [cursor=pointer]
+                  - button [ref=e669] [cursor=pointer]
+                  - button [ref=e675] [cursor=pointer]
+            - generic [ref=e680]:
+              - generic [ref=e681] [cursor=pointer]:
+                - button [ref=e682]:
+                  - generic [ref=e683]: View event
+                - button [ref=e684]:
+                  - img [ref=e685]:
+                    - img [ref=e687]
+              - button [ref=e689] [cursor=pointer]
+              - generic [ref=e691]:
+                - button [ref=e692] [cursor=pointer]:
+                  - generic [ref=e693]: View event
+                - generic [ref=e694]:
+                  - button [ref=e697] [cursor=pointer]
+                  - button [ref=e703] [cursor=pointer]
+                  - button [ref=e709] [cursor=pointer]
+                  - button [ref=e715] [cursor=pointer]
+                  - button [ref=e721] [cursor=pointer]
+                  - button [ref=e727] [cursor=pointer]
+            - generic [ref=e732]:
+              - generic [ref=e733] [cursor=pointer]:
+                - button [ref=e734]:
+                  - generic [ref=e735]: View event
+                - button [ref=e736]:
+                  - img [ref=e737]:
+                    - img [ref=e739]
+              - button [ref=e741] [cursor=pointer]
+              - generic [ref=e743]:
+                - button [ref=e744] [cursor=pointer]:
+                  - generic [ref=e745]: View event
+                - generic [ref=e746]:
+                  - button [ref=e749] [cursor=pointer]
+                  - button [ref=e755] [cursor=pointer]
+                  - button [ref=e761] [cursor=pointer]
+                  - button [ref=e767] [cursor=pointer]
+                  - button [ref=e773] [cursor=pointer]
+                  - button [ref=e779] [cursor=pointer]
+            - generic [ref=e784]:
+              - generic [ref=e785] [cursor=pointer]:
+                - button [ref=e786]:
+                  - generic [ref=e787]: View event
+                - button [ref=e788]:
+                  - img [ref=e789]:
+                    - img [ref=e791]
+              - button [ref=e793] [cursor=pointer]
+              - generic [ref=e795]:
+                - button [ref=e796] [cursor=pointer]:
+                  - generic [ref=e797]: View event
+                - generic [ref=e798]:
+                  - button [ref=e801] [cursor=pointer]
+                  - button [ref=e807] [cursor=pointer]
+                  - button [ref=e813] [cursor=pointer]
+                  - button [ref=e819] [cursor=pointer]
+                  - button [ref=e825] [cursor=pointer]
+                  - button [ref=e831] [cursor=pointer]
+            - generic [ref=e836]:
+              - generic [ref=e837] [cursor=pointer]:
+                - button [ref=e838]:
+                  - generic [ref=e839]: View event
+                - button [ref=e840]:
+                  - img [ref=e841]:
+                    - img [ref=e843]
+              - button [ref=e845] [cursor=pointer]
+              - generic [ref=e847]:
+                - button [ref=e848] [cursor=pointer]:
+                  - generic [ref=e849]: View event
+                - generic [ref=e850]:
+                  - button [ref=e853] [cursor=pointer]
+                  - button [ref=e859] [cursor=pointer]
+                  - button [ref=e865] [cursor=pointer]
+                  - button [ref=e871] [cursor=pointer]
+                  - button [ref=e877] [cursor=pointer]
+                  - button [ref=e883] [cursor=pointer]
+            - generic [ref=e887] [cursor=pointer]:
+              - generic [ref=e888]: Maltese Premier League
+              - img [ref=e889]:
+                - img [ref=e891]
+            - generic [ref=e894]:
+              - generic [ref=e895] [cursor=pointer]:
+                - button [ref=e896]:
+                  - generic [ref=e897]: View event
+                - button [ref=e898]:
+                  - img [ref=e899]:
+                    - img [ref=e901]
+              - button [ref=e903] [cursor=pointer]
+              - generic [ref=e905]:
+                - button [ref=e906] [cursor=pointer]:
+                  - generic [ref=e907]: View event
+                - generic [ref=e908]:
+                  - button [ref=e911] [cursor=pointer]
+                  - button [ref=e917] [cursor=pointer]
+                  - button [ref=e923] [cursor=pointer]
+                  - button [ref=e929] [cursor=pointer]
+                  - button [ref=e935] [cursor=pointer]
+                  - button [ref=e941] [cursor=pointer]
+            - generic [ref=e945] [cursor=pointer]:
+              - generic [ref=e946]: Turkish 1 Lig
+              - img [ref=e947]:
+                - img [ref=e949]
+            - generic [ref=e952]:
+              - generic [ref=e953] [cursor=pointer]:
+                - button [ref=e954]:
+                  - generic [ref=e955]: View event
+                - button [ref=e956]:
+                  - img [ref=e957]:
+                    - img [ref=e959]
+              - button [ref=e961] [cursor=pointer]
+              - generic [ref=e963]:
+                - button [ref=e964] [cursor=pointer]:
+                  - generic [ref=e965]: View event
+                - generic [ref=e966]:
+                  - button [ref=e969] [cursor=pointer]
+                  - button [ref=e975] [cursor=pointer]
+                  - button [ref=e981] [cursor=pointer]
+                  - button [ref=e987] [cursor=pointer]
+                  - button [ref=e993] [cursor=pointer]
+                  - button [ref=e999] [cursor=pointer]
+            - generic [ref=e1004]:
+              - generic [ref=e1005] [cursor=pointer]:
+                - button [ref=e1006]:
+                  - generic [ref=e1007]: View event
+                - button [ref=e1008]:
+                  - img [ref=e1009]:
+                    - img [ref=e1011]
+              - button [ref=e1013] [cursor=pointer]
+              - generic [ref=e1015]:
+                - button [ref=e1016] [cursor=pointer]:
+                  - generic [ref=e1017]: View event
+                - generic [ref=e1018]:
+                  - button [ref=e1021] [cursor=pointer]
+                  - button [ref=e1027] [cursor=pointer]
+                  - button [ref=e1033] [cursor=pointer]
+                  - button [ref=e1039] [cursor=pointer]
+                  - button [ref=e1045] [cursor=pointer]
+                  - button [ref=e1051] [cursor=pointer]
+            - generic [ref=e1055] [cursor=pointer]:
+              - generic [ref=e1056]: Saudi 1st Division
+              - img [ref=e1057]:
+                - img [ref=e1059]
+            - generic [ref=e1062]:
+              - generic [ref=e1063] [cursor=pointer]:
+                - button [ref=e1064]:
+                  - generic [ref=e1065]: View event
+                - button [ref=e1066]:
+                  - img [ref=e1067]:
+                    - img [ref=e1069]
+              - button [ref=e1071] [cursor=pointer]
+              - generic [ref=e1073]:
+                - button [ref=e1074] [cursor=pointer]:
+                  - generic [ref=e1075]: View event
+                - generic [ref=e1076]:
+                  - button [ref=e1079] [cursor=pointer]
+                  - button [ref=e1085] [cursor=pointer]
+                  - button [ref=e1091] [cursor=pointer]
+                  - button [ref=e1097] [cursor=pointer]
+                  - button [ref=e1103] [cursor=pointer]
+                  - button [ref=e1109] [cursor=pointer]
+            - generic [ref=e1113] [cursor=pointer]:
+              - generic [ref=e1114]: Argentinian Primera Division Reserves
+              - img [ref=e1115]:
+                - img [ref=e1117]
+            - generic [ref=e1120]:
+              - generic [ref=e1121] [cursor=pointer]:
+                - button [ref=e1122]:
+                  - generic [ref=e1123]: View event
+                - button [ref=e1124]:
+                  - img [ref=e1125]:
+                    - img [ref=e1127]
+              - button [ref=e1129] [cursor=pointer]
+              - generic [ref=e1131]:
+                - button [ref=e1132] [cursor=pointer]:
+                  - generic [ref=e1133]: View event
+                - generic [ref=e1134]:
+                  - button [ref=e1137] [cursor=pointer]
+                  - button [ref=e1143] [cursor=pointer]
+                  - button [ref=e1149] [cursor=pointer]
+                  - button [ref=e1155] [cursor=pointer]
+                  - button [ref=e1161] [cursor=pointer]
+                  - button [ref=e1167] [cursor=pointer]
+            - generic [ref=e1172]:
+              - generic [ref=e1173] [cursor=pointer]:
+                - button [ref=e1174]:
+                  - generic [ref=e1175]: View event
+                - button [ref=e1176]:
+                  - img [ref=e1177]:
+                    - img [ref=e1179]
+              - button [ref=e1181] [cursor=pointer]
+              - generic [ref=e1183]:
+                - button [ref=e1184] [cursor=pointer]:
+                  - generic [ref=e1185]: View event
+                - generic [ref=e1186]:
+                  - button [ref=e1189] [cursor=pointer]
+                  - button [ref=e1195] [cursor=pointer]
+                  - button [ref=e1201] [cursor=pointer]
+                  - button [ref=e1207] [cursor=pointer]
+                  - button [ref=e1213] [cursor=pointer]
+                  - button [ref=e1219] [cursor=pointer]
+            - generic [ref=e1224]:
+              - generic [ref=e1225] [cursor=pointer]:
+                - button [ref=e1226]:
+                  - generic [ref=e1227]: View event
+                - button [ref=e1228]:
+                  - img [ref=e1229]:
+                    - img [ref=e1231]
+              - button [ref=e1233] [cursor=pointer]
+              - generic [ref=e1235]:
+                - button [ref=e1236] [cursor=pointer]:
+                  - generic [ref=e1237]: View event
+                - generic [ref=e1238]:
+                  - button [ref=e1241] [cursor=pointer]
+                  - button [ref=e1247] [cursor=pointer]
+                  - button [ref=e1253] [cursor=pointer]
+                  - button [ref=e1259] [cursor=pointer]
+                  - button [ref=e1265] [cursor=pointer]
+                  - button [ref=e1271] [cursor=pointer]
+            - generic [ref=e1276]:
+              - generic [ref=e1277] [cursor=pointer]:
+                - button [ref=e1278]:
+                  - generic [ref=e1279]: View event
+                - button [ref=e1280]:
+                  - img [ref=e1281]:
+                    - img [ref=e1283]
+              - button [ref=e1285] [cursor=pointer]
+              - generic [ref=e1287]:
+                - button [ref=e1288] [cursor=pointer]:
+                  - generic [ref=e1289]: View event
+                - generic [ref=e1290]:
+                  - button [ref=e1293] [cursor=pointer]
+                  - button [ref=e1299] [cursor=pointer]
+                  - button [ref=e1305] [cursor=pointer]
+                  - button [ref=e1311] [cursor=pointer]
+                  - button [ref=e1317] [cursor=pointer]
+                  - button [ref=e1323] [cursor=pointer]
+            - generic [ref=e1328]:
+              - generic [ref=e1329] [cursor=pointer]:
+                - button [ref=e1330]:
+                  - generic [ref=e1331]: View event
+                - button [ref=e1332]:
+                  - img [ref=e1333]:
+                    - img [ref=e1335]
+              - button [ref=e1337] [cursor=pointer]
+              - generic [ref=e1339]:
+                - button [ref=e1340] [cursor=pointer]:
+                  - generic [ref=e1341]: View event
+                - generic [ref=e1342]:
+                  - button [ref=e1345] [cursor=pointer]
+                  - button [ref=e1351] [cursor=pointer]
+                  - button [ref=e1357] [cursor=pointer]
+                  - button [ref=e1363] [cursor=pointer]
+                  - button [ref=e1369] [cursor=pointer]
+                  - button [ref=e1375] [cursor=pointer]
+            - generic [ref=e1380]:
+              - generic [ref=e1381] [cursor=pointer]:
+                - button [ref=e1382]:
+                  - generic [ref=e1383]: View event
+                - button [ref=e1384]:
+                  - img [ref=e1385]:
+                    - img [ref=e1387]
+              - button [ref=e1389] [cursor=pointer]
+              - generic [ref=e1391]:
+                - button [ref=e1392] [cursor=pointer]:
+                  - generic [ref=e1393]: View event
+                - generic [ref=e1394]:
+                  - button [ref=e1397] [cursor=pointer]
+                  - button [ref=e1403] [cursor=pointer]
+                  - button [ref=e1409] [cursor=pointer]
+                  - button [ref=e1415] [cursor=pointer]
+                  - button [ref=e1421] [cursor=pointer]
+                  - button [ref=e1427] [cursor=pointer]
+            - generic [ref=e1431] [cursor=pointer]:
+              - generic [ref=e1432]: Portuguese Cup
+              - img [ref=e1433]:
+                - img [ref=e1435]
+            - generic [ref=e1438]:
+              - generic [ref=e1439] [cursor=pointer]:
+                - button [ref=e1440]:
+                  - generic [ref=e1441]: View event
+                - button [ref=e1442]:
+                  - img [ref=e1443]:
+                    - img [ref=e1445]
+              - button [ref=e1447] [cursor=pointer]
+              - generic [ref=e1449]:
+                - button [ref=e1450] [cursor=pointer]:
+                  - generic [ref=e1451]: View event
+                - generic [ref=e1452]:
+                  - button [ref=e1455] [cursor=pointer]
+                  - button [ref=e1461] [cursor=pointer]
+                  - button [ref=e1467] [cursor=pointer]
+                  - button [ref=e1473] [cursor=pointer]
+                  - button [ref=e1479] [cursor=pointer]
+                  - button [ref=e1485] [cursor=pointer]
+            - generic [ref=e1489] [cursor=pointer]:
+              - generic [ref=e1490]: AFC Champions League Two
+              - img [ref=e1491]:
+                - img [ref=e1493]
+            - generic [ref=e1496]:
+              - generic [ref=e1497] [cursor=pointer]:
+                - button [ref=e1498]:
+                  - generic [ref=e1499]: View event
+                - button [ref=e1500]:
+                  - img [ref=e1501]:
+                    - img [ref=e1503]
+              - button [ref=e1505] [cursor=pointer]
+              - generic [ref=e1507]:
+                - button [ref=e1508] [cursor=pointer]:
+                  - generic [ref=e1509]: View event
+                - generic [ref=e1510]:
+                  - button [ref=e1513] [cursor=pointer]
+                  - button [ref=e1519] [cursor=pointer]
+                  - button [ref=e1525] [cursor=pointer]
+                  - button [ref=e1531] [cursor=pointer]
+                  - button [ref=e1537] [cursor=pointer]
+                  - button [ref=e1543] [cursor=pointer]
+            - generic [ref=e1547] [cursor=pointer]:
+              - generic [ref=e1548]: Uruguayan Cup
+              - img [ref=e1549]:
+                - img [ref=e1551]
+            - generic [ref=e1554]:
+              - generic [ref=e1555] [cursor=pointer]:
+                - button [ref=e1556]:
+                  - generic [ref=e1557]: View event
+                - button [ref=e1558]:
+                  - img [ref=e1559]:
+                    - img [ref=e1561]
+              - button [ref=e1563] [cursor=pointer]
+              - generic [ref=e1565]:
+                - button [ref=e1566] [cursor=pointer]:
+                  - generic [ref=e1567]: View event
+                - generic [ref=e1568]:
+                  - button [ref=e1571] [cursor=pointer]
+                  - button [ref=e1577] [cursor=pointer]
+                  - button [ref=e1583] [cursor=pointer]
+                  - button [ref=e1589] [cursor=pointer]
+                  - button [ref=e1595] [cursor=pointer]
+                  - button [ref=e1601] [cursor=pointer]
+            - generic [ref=e1605] [cursor=pointer]:
+              - generic [ref=e1606]: English Sky Bet Championship
+              - img [ref=e1607]:
+                - img [ref=e1609]
+            - generic [ref=e1612]:
+              - generic [ref=e1613] [cursor=pointer]:
+                - button [ref=e1614]:
+                  - generic [ref=e1615]: View event
+                - button [ref=e1616]:
+                  - img [ref=e1617]:
+                    - img [ref=e1619]
+              - button [ref=e1621] [cursor=pointer]
+              - generic [ref=e1623]:
+                - button [ref=e1624] [cursor=pointer]:
+                  - generic [ref=e1625]: View event
+                - generic [ref=e1626]:
+                  - button [ref=e1629] [cursor=pointer]
+                  - button [ref=e1635] [cursor=pointer]
+                  - button [ref=e1641] [cursor=pointer]
+                  - button [ref=e1647] [cursor=pointer]
+                  - button [ref=e1653] [cursor=pointer]
+                  - button [ref=e1659] [cursor=pointer]
+            - generic [ref=e1664]:
+              - generic [ref=e1665] [cursor=pointer]:
+                - button [ref=e1666]:
+                  - generic [ref=e1667]: View event
+                - button [ref=e1668]:
+                  - img [ref=e1669]:
+                    - img [ref=e1671]
+              - button [ref=e1673] [cursor=pointer]
+              - generic [ref=e1675]:
+                - button [ref=e1676] [cursor=pointer]:
+                  - generic [ref=e1677]: View event
+                - generic [ref=e1678]:
+                  - button [ref=e1681] [cursor=pointer]
+                  - button [ref=e1687] [cursor=pointer]
+                  - button [ref=e1693] [cursor=pointer]
+                  - button [ref=e1699] [cursor=pointer]
+                  - button [ref=e1705] [cursor=pointer]
+                  - button [ref=e1711] [cursor=pointer]
+            - generic [ref=e1716]:
+              - generic [ref=e1717] [cursor=pointer]:
+                - button [ref=e1718]:
+                  - generic [ref=e1719]: View event
+                - button [ref=e1720]:
+                  - img [ref=e1721]:
+                    - img [ref=e1723]
+              - button [ref=e1725] [cursor=pointer]
+              - generic [ref=e1727]:
+                - button [ref=e1728] [cursor=pointer]:
+                  - generic [ref=e1729]: View event
+                - generic [ref=e1730]:
+                  - button [ref=e1733] [cursor=pointer]
+                  - button [ref=e1739] [cursor=pointer]
+                  - button [ref=e1745] [cursor=pointer]
+                  - button [ref=e1751] [cursor=pointer]
+                  - button [ref=e1757] [cursor=pointer]
+                  - button [ref=e1763] [cursor=pointer]
+            - generic [ref=e1768]:
+              - generic [ref=e1769] [cursor=pointer]:
+                - button [ref=e1770]:
+                  - generic [ref=e1771]: View event
+                - button [ref=e1772]:
+                  - img [ref=e1773]:
+                    - img [ref=e1775]
+              - button [ref=e1777] [cursor=pointer]
+              - generic [ref=e1779]:
+                - button [ref=e1780] [cursor=pointer]:
+                  - generic [ref=e1781]: View event
+                - generic [ref=e1782]:
+                  - button [ref=e1785] [cursor=pointer]
+                  - button [ref=e1791] [cursor=pointer]
+                  - button [ref=e1797] [cursor=pointer]
+                  - button [ref=e1803] [cursor=pointer]
+                  - button [ref=e1809] [cursor=pointer]
+                  - button [ref=e1815] [cursor=pointer]
+            - generic [ref=e1819] [cursor=pointer]:
+              - generic [ref=e1820]: Moroccan Botola Pro 1
+              - img [ref=e1821]:
+                - img [ref=e1823]
+            - generic [ref=e1826]:
+              - generic [ref=e1827] [cursor=pointer]:
+                - button [ref=e1828]:
+                  - generic [ref=e1829]: View event
+                - button [ref=e1830]:
+                  - img [ref=e1831]:
+                    - img [ref=e1833]
+              - button [ref=e1835] [cursor=pointer]
+              - generic [ref=e1837]:
+                - button [ref=e1838] [cursor=pointer]:
+                  - generic [ref=e1839]: View event
+                - generic [ref=e1840]:
+                  - button [ref=e1843] [cursor=pointer]
+                  - button [ref=e1849] [cursor=pointer]
+                  - button [ref=e1855] [cursor=pointer]
+                  - button [ref=e1861] [cursor=pointer]
+                  - button [ref=e1867] [cursor=pointer]
+                  - button [ref=e1873] [cursor=pointer]
+            - generic [ref=e1877] [cursor=pointer]:
+              - generic [ref=e1878]: Paraguayan Cup
+              - img [ref=e1879]:
+                - img [ref=e1881]
+            - generic [ref=e1884]:
+              - generic [ref=e1885] [cursor=pointer]:
+                - button [ref=e1886]:
+                  - generic [ref=e1887]: View event
+                - button [ref=e1888]:
+                  - img [ref=e1889]:
+                    - img [ref=e1891]
+              - button [ref=e1893] [cursor=pointer]
+              - generic [ref=e1895]:
+                - button [ref=e1896] [cursor=pointer]:
+                  - generic [ref=e1897]: View event
+                - generic [ref=e1898]:
+                  - button [ref=e1901] [cursor=pointer]
+                  - button [ref=e1907] [cursor=pointer]
+                  - button [ref=e1913] [cursor=pointer]
+                  - button [ref=e1919] [cursor=pointer]
+                  - button [ref=e1925] [cursor=pointer]
+                  - button [ref=e1931] [cursor=pointer]
+            - generic [ref=e1936]:
+              - generic [ref=e1937] [cursor=pointer]:
+                - button [ref=e1938]:
+                  - generic [ref=e1939]: View event
+                - button [ref=e1940]:
+                  - img [ref=e1941]:
+                    - img [ref=e1943]
+              - button [ref=e1945] [cursor=pointer]
+              - generic [ref=e1947]:
+                - button [ref=e1948] [cursor=pointer]:
+                  - generic [ref=e1949]: View event
+                - generic [ref=e1950]:
+                  - button [ref=e1953] [cursor=pointer]
+                  - button [ref=e1959] [cursor=pointer]
+                  - button [ref=e1965] [cursor=pointer]
+                  - button [ref=e1971] [cursor=pointer]
+                  - button [ref=e1977] [cursor=pointer]
+                  - button [ref=e1983] [cursor=pointer]
+            - generic [ref=e1987] [cursor=pointer]:
+              - generic [ref=e1988]: Colombian Primera A
+              - img [ref=e1989]:
+                - img [ref=e1991]
+            - generic [ref=e1994]:
+              - generic [ref=e1995] [cursor=pointer]:
+                - button [ref=e1996]:
+                  - generic [ref=e1997]: View event
+                - button [ref=e1998]:
+                  - img [ref=e1999]:
+                    - img [ref=e2001]
+              - button [ref=e2003] [cursor=pointer]
+              - generic [ref=e2005]:
+                - button [ref=e2006] [cursor=pointer]:
+                  - generic [ref=e2007]: View event
+                - generic [ref=e2008]:
+                  - button [ref=e2011] [cursor=pointer]
+                  - button [ref=e2017] [cursor=pointer]
+                  - button [ref=e2023] [cursor=pointer]
+                  - button [ref=e2029] [cursor=pointer]
+                  - button [ref=e2035] [cursor=pointer]
+                  - button [ref=e2041] [cursor=pointer]
+            - generic [ref=e2045] [cursor=pointer]:
+              - generic [ref=e2046]: Colombian Primera B
+              - img [ref=e2047]:
+                - img [ref=e2049]
+            - generic [ref=e2052]:
+              - generic [ref=e2053] [cursor=pointer]:
+                - button [ref=e2054]:
+                  - generic [ref=e2055]: View event
+                - button [ref=e2056]:
+                  - img [ref=e2057]:
+                    - img [ref=e2059]
+              - button [ref=e2061] [cursor=pointer]
+              - generic [ref=e2063]:
+                - button [ref=e2064] [cursor=pointer]:
+                  - generic [ref=e2065]: View event
+                - generic [ref=e2066]:
+                  - button [ref=e2069] [cursor=pointer]
+                  - button [ref=e2075] [cursor=pointer]
+                  - button [ref=e2081] [cursor=pointer]
+                  - button [ref=e2087] [cursor=pointer]
+                  - button [ref=e2093] [cursor=pointer]
+                  - button [ref=e2099] [cursor=pointer]
+            - generic [ref=e2103] [cursor=pointer]:
+              - generic [ref=e2104]: Argentinian Primera Division
+              - img [ref=e2105]:
+                - img [ref=e2107]
+            - generic [ref=e2110]:
+              - generic [ref=e2111] [cursor=pointer]:
+                - button [ref=e2112]:
+                  - generic [ref=e2113]: View event
+                - button [ref=e2114]:
+                  - img [ref=e2115]:
+                    - img [ref=e2117]
+              - button [ref=e2119] [cursor=pointer]
+              - generic [ref=e2121]:
+                - button [ref=e2122] [cursor=pointer]:
+                  - generic [ref=e2123]: View event
+                - generic [ref=e2124]:
+                  - button [ref=e2127] [cursor=pointer]
+                  - button [ref=e2133] [cursor=pointer]
+                  - button [ref=e2139] [cursor=pointer]
+                  - button [ref=e2145] [cursor=pointer]
+                  - button [ref=e2151] [cursor=pointer]
+                  - button [ref=e2157] [cursor=pointer]
+            - generic [ref=e2161] [cursor=pointer]:
+              - generic [ref=e2162]: US United Soccer League
+              - img [ref=e2163]:
+                - img [ref=e2165]
+            - generic [ref=e2168]:
+              - generic [ref=e2169] [cursor=pointer]:
+                - button [ref=e2170]:
+                  - generic [ref=e2171]: View event
+                - button [ref=e2172]:
+                  - img [ref=e2173]:
+                    - img [ref=e2175]
+              - button [ref=e2177] [cursor=pointer]
+              - generic [ref=e2179]:
+                - button [ref=e2180] [cursor=pointer]:
+                  - generic [ref=e2181]: View event
+                - generic [ref=e2182]:
+                  - button [ref=e2185] [cursor=pointer]
+                  - button [ref=e2191] [cursor=pointer]
+                  - button [ref=e2197] [cursor=pointer]
+                  - button [ref=e2203] [cursor=pointer]
+                  - button [ref=e2209] [cursor=pointer]
+                  - button [ref=e2215] [cursor=pointer]
+            - generic [ref=e2220]:
+              - generic [ref=e2221] [cursor=pointer]:
+                - button [ref=e2222]:
+                  - generic [ref=e2223]: View event
+                - button [ref=e2224]:
+                  - img [ref=e2225]:
+                    - img [ref=e2227]
+              - button [ref=e2229] [cursor=pointer]
+              - generic [ref=e2231]:
+                - button [ref=e2232] [cursor=pointer]:
+                  - generic [ref=e2233]: View event
+                - generic [ref=e2234]:
+                  - button [ref=e2237] [cursor=pointer]
+                  - button [ref=e2243] [cursor=pointer]
+                  - button [ref=e2249] [cursor=pointer]
+                  - button [ref=e2255] [cursor=pointer]
+                  - button [ref=e2261] [cursor=pointer]
+                  - button [ref=e2267] [cursor=pointer]
+            - generic [ref=e2272]:
+              - generic [ref=e2273] [cursor=pointer]:
+                - button [ref=e2274]:
+                  - generic [ref=e2275]: View event
+                - button [ref=e2276]:
+                  - img [ref=e2277]:
+                    - img [ref=e2279]
+              - button [ref=e2281] [cursor=pointer]
+              - generic [ref=e2283]:
+                - button [ref=e2284] [cursor=pointer]:
+                  - generic [ref=e2285]: View event
+                - generic [ref=e2286]:
+                  - button [ref=e2289] [cursor=pointer]
+                  - button [ref=e2295] [cursor=pointer]
+                  - button [ref=e2301] [cursor=pointer]
+                  - button [ref=e2307] [cursor=pointer]
+                  - button [ref=e2313] [cursor=pointer]
+                  - button [ref=e2319] [cursor=pointer]
+            - generic [ref=e2323] [cursor=pointer]:
+              - generic [ref=e2324]: Guatemalan Liga Nacional
+              - img [ref=e2325]:
+                - img [ref=e2327]
+            - generic [ref=e2330]:
+              - generic [ref=e2331] [cursor=pointer]:
+                - button [ref=e2332]:
+                  - generic [ref=e2333]: View event
+                - button [ref=e2334]:
+                  - img [ref=e2335]:
+                    - img [ref=e2337]
+              - button [ref=e2339] [cursor=pointer]
+              - generic [ref=e2341]:
+                - button [ref=e2342] [cursor=pointer]:
+                  - generic [ref=e2343]: View event
+                - generic [ref=e2344]:
+                  - button [ref=e2347] [cursor=pointer]
+                  - button [ref=e2353] [cursor=pointer]
+                  - button [ref=e2359] [cursor=pointer]
+                  - button [ref=e2365] [cursor=pointer]
+                  - button [ref=e2371] [cursor=pointer]
+                  - button [ref=e2377] [cursor=pointer]
+            - generic [ref=e2381] [cursor=pointer]:
+              - generic [ref=e2382]: US MLS
+              - img [ref=e2383]:
+                - img [ref=e2385]
+            - generic [ref=e2388]:
+              - generic [ref=e2389] [cursor=pointer]:
+                - button [ref=e2390]:
+                  - generic [ref=e2391]: View event
+                - button [ref=e2392]:
+                  - img [ref=e2393]:
+                    - img [ref=e2395]
+              - button [ref=e2397] [cursor=pointer]
+              - generic [ref=e2399]:
+                - button [ref=e2400] [cursor=pointer]:
+                  - generic [ref=e2401]: View event
+                - generic [ref=e2402]:
+                  - button [ref=e2405] [cursor=pointer]
+                  - button [ref=e2411] [cursor=pointer]
+                  - button [ref=e2417] [cursor=pointer]
+                  - button [ref=e2423] [cursor=pointer]
+                  - button [ref=e2429] [cursor=pointer]
+                  - button [ref=e2435] [cursor=pointer]
+            - generic [ref=e2440]:
+              - generic [ref=e2441] [cursor=pointer]:
+                - button [ref=e2442]:
+                  - generic [ref=e2443]: View event
+                - button [ref=e2444]:
+                  - img [ref=e2445]:
+                    - img [ref=e2447]
+              - button [ref=e2449] [cursor=pointer]
+              - generic [ref=e2451]:
+                - button [ref=e2452] [cursor=pointer]:
+                  - generic [ref=e2453]: View event
+                - generic [ref=e2454]:
+                  - button [ref=e2457] [cursor=pointer]
+                  - button [ref=e2463] [cursor=pointer]
+                  - button [ref=e2469] [cursor=pointer]
+                  - button [ref=e2475] [cursor=pointer]
+                  - button [ref=e2481] [cursor=pointer]
+                  - button [ref=e2487] [cursor=pointer]
+            - generic [ref=e2492]:
+              - generic [ref=e2493] [cursor=pointer]:
+                - button [ref=e2494]:
+                  - generic [ref=e2495]: View event
+                - button [ref=e2496]:
+                  - img [ref=e2497]:
+                    - img [ref=e2499]
+              - button [ref=e2501] [cursor=pointer]
+              - generic [ref=e2503]:
+                - button [ref=e2504] [cursor=pointer]:
+                  - generic [ref=e2505]: View event
+                - generic [ref=e2506]:
+                  - button [ref=e2509] [cursor=pointer]
+                  - button [ref=e2515] [cursor=pointer]
+                  - button [ref=e2521] [cursor=pointer]
+                  - button [ref=e2527] [cursor=pointer]
+                  - button [ref=e2533] [cursor=pointer]
+                  - button [ref=e2539] [cursor=pointer]
+            - generic [ref=e2544]:
+              - generic [ref=e2545] [cursor=pointer]:
+                - button [ref=e2546]:
+                  - generic [ref=e2547]: View event
+                - button [ref=e2548]:
+                  - img [ref=e2549]:
+                    - img [ref=e2551]
+              - button [ref=e2553] [cursor=pointer]
+              - generic [ref=e2555]:
+                - button [ref=e2556] [cursor=pointer]:
+                  - generic [ref=e2557]: View event
+                - generic [ref=e2558]:
+                  - button [ref=e2561] [cursor=pointer]
+                  - button [ref=e2567] [cursor=pointer]
+                  - button [ref=e2573] [cursor=pointer]
+                  - button [ref=e2579] [cursor=pointer]
+                  - button [ref=e2585] [cursor=pointer]
+                  - button [ref=e2591] [cursor=pointer]
+            - generic [ref=e2596]:
+              - generic [ref=e2597] [cursor=pointer]:
+                - button [ref=e2598]:
+                  - generic [ref=e2599]: View event
+                - button [ref=e2600]:
+                  - img [ref=e2601]:
+                    - img [ref=e2603]
+              - button [ref=e2605] [cursor=pointer]
+              - generic [ref=e2607]:
+                - button [ref=e2608] [cursor=pointer]:
+                  - generic [ref=e2609]: View event
+                - generic [ref=e2610]:
+                  - button [ref=e2613] [cursor=pointer]
+                  - button [ref=e2619] [cursor=pointer]
+                  - button [ref=e2625] [cursor=pointer]
+                  - button [ref=e2631] [cursor=pointer]
+                  - button [ref=e2637] [cursor=pointer]
+                  - button [ref=e2643] [cursor=pointer]
+            - generic [ref=e2648]:
+              - generic [ref=e2649] [cursor=pointer]:
+                - button [ref=e2650]:
+                  - generic [ref=e2651]: View event
+                - button [ref=e2652]:
+                  - img [ref=e2653]:
+                    - img [ref=e2655]
+              - button [ref=e2657] [cursor=pointer]
+              - generic [ref=e2659]:
+                - button [ref=e2660] [cursor=pointer]:
+                  - generic [ref=e2661]: View event
+                - generic [ref=e2662]:
+                  - button [ref=e2665] [cursor=pointer]
+                  - button [ref=e2671] [cursor=pointer]
+                  - button [ref=e2677] [cursor=pointer]
+                  - button [ref=e2683] [cursor=pointer]
+                  - button [ref=e2689] [cursor=pointer]
+                  - button [ref=e2695] [cursor=pointer]
+    - tablist [ref=e2699]:
+      - tab [selected] [ref=e2701] [cursor=pointer]:
+        - generic [ref=e2702]:
+          - img [ref=e2703]:
+            - img [ref=e2705]
+          - generic [ref=e2708]: Home
+      - tab [ref=e2710] [cursor=pointer]:
+        - generic [ref=e2711]:
+          - img [ref=e2712]:
+            - img [ref=e2714]
+          - generic [ref=e2716]: My Markets
+      - tab [ref=e2718] [cursor=pointer]:
+        - generic [ref=e2719]:
+          - img [ref=e2720]:
+            - img [ref=e2722]
+          - generic [ref=e2729]: Asian Casino
+      - tab [ref=e2731] [cursor=pointer]:
+        - generic [ref=e2732]:
+          - img [ref=e2733]:
+            - img [ref=e2735]
+          - generic [ref=e2738]: My Bets
+  - dialog [ref=e2741]:
+    - generic [ref=e2743]:
+      - generic [ref=e2744]:
+        - paragraph [ref=e2745]: BACK - Feyenoord (Match Odds)
+        - button [ref=e2747] [cursor=pointer]:
+          - generic [ref=e2748]:
+            - generic:
+              - img:
+                - generic:
+                  - img
+      - paragraph [ref=e2750]: "Profit: 210"
+      - generic [ref=e2751]:
+        - generic [ref=e2752]:
+          - button [ref=e2753] [cursor=pointer]:
+            - img [ref=e2754]:
+              - img [ref=e2756]
+          - spinbutton [ref=e2757]: "3.1"
+          - button [ref=e2758] [cursor=pointer]:
+            - img [ref=e2759]:
+              - img [ref=e2761]
+        - spinbutton [active] [ref=e2763]: "100"
+      - generic [ref=e2765]:
+        - button "10" [ref=e2766] [cursor=pointer]:
+          - generic [ref=e2767]: "10"
+        - button "20" [ref=e2768] [cursor=pointer]:
+          - generic [ref=e2769]: "20"
+        - button "30" [ref=e2770] [cursor=pointer]:
+          - generic [ref=e2771]: "30"
+        - button "40" [ref=e2772] [cursor=pointer]:
+          - generic [ref=e2773]: "40"
+        - button "50" [ref=e2774] [cursor=pointer]:
+          - generic [ref=e2775]: "50"
+        - button "80" [ref=e2776] [cursor=pointer]:
+          - generic [ref=e2777]: "80"
+        - button "80" [ref=e2778] [cursor=pointer]:
+          - generic [ref=e2779]: "80"
+      - generic [ref=e2780]:
+        - button "Debug" [ref=e2782] [cursor=pointer]:
+          - generic [ref=e2783]:
+            - generic: Debug
+        - paragraph [ref=e2784]: "New Total Exposure: 2,495.18"
+      - generic [ref=e2786]:
+        - button "Cancel" [ref=e2788] [cursor=pointer]
+        - button "Place Bet" [ref=e2790] [cursor=pointer]
+```

@@ -1,0 +1,15 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+🔹 Testing Main Menu Navigation
+⏱ In-Play loaded in 2.41s
+⏱ My Markets loaded in 3.03s
+
+🔹 Testing Header Sports Navigation
+⏱ Soccer navigation completed in 0.95s
+⏱ Cricket navigation completed in 1.36s
+⏱ Tennis navigation completed in 1.66s

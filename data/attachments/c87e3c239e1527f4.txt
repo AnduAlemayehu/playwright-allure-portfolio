@@ -1,0 +1,13 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+Checking Initial Wallet Values...
+{ balance: 5276.35, exposure: -1700, available: 3576.35 }
+Placing Multiple Bets...
+Wallet After Bets: { balance: 5276.35, exposure: -1700, available: 3576.35 }
+Refreshing Page...
+Wallet After Refresh: { balance: 5276.35, exposure: -1700, available: 3576.35 }
+✅ Negative Balance Validation Passed

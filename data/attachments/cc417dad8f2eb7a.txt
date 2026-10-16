@@ -1,0 +1,74 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 Mobile Cash Out Validation
+==============================
+📱 Cash Out POM: V1
+
+⏳ Waiting for Mobile Home page to finish loading...
+✅ Mobile Home page loaded
+
+================================
+🎯 CREATING BET FOR CASHOUT
+================================
+
+================================
+🎯 FINDING VALID BACK ODDS
+================================
+
+⏳ Waiting for sport navigation...
+📊 Sport tabs found: 4
+🏷️ Sport 1: Cricket tab
+🏷️ Sport 2: Soccer tab
+🏷️ Sport 3: Tennis tab
+🏷️ Sport 4: Horse tab
+
+🏷️ Checking Cricket
+🔎 Cricket tab count: 1
+✅ Cricket tab visible
+✅ Cricket selected
+📊 Cricket: 21 BACK cells found
+   BACK 1: odd=2.32
+🎯 VALID BACK FOUND: Cricket @ 2.32
+✅ BACK 2.32 clicked
+✅ Stake input displayed
+💰 Stake entered: 100
+🎯 Place Bet clicked
+📢 Placement response: Bet Placed and Matched
+✅ Placement successful: Bet Placed and Matched
+
+📊 Bet creation result: created
+
+================================
+📋 OPENING MY BETS
+================================
+✅ My Bets opened
+
+================================
+💰 CASHING OUT OPEN BET
+================================
+📋 Opening latest open bet
+💰 Cash Out clicked
+✅ Cashout completed in 0.96s
+⏱ Cashout Time: 0.96s
+
+✅ Cash Out Validation Completed Successfully
+
+================================
+📱 MOBILE SESSION END
+================================
+

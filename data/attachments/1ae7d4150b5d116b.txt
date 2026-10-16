@@ -1,0 +1,87 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+======================
+🎯 Notification Flow
+======================
+🔍 Searching Market (1/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (2/30)
+🎯 Opening In-Play Page
+✅ Market Selected @ 2.68
+📢 Toast Received: Placement Successful
+Bet ID: 89267 was successfully matched.
+🎯 Opening In-Play Page
+🔍 Searching Market (1/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (2/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (3/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (4/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting
+🔍 Searching Market (5/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (6/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (7/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (8/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (9/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting
+🔍 Searching Market (10/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting
+🔍 Searching Market (11/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting
+🔍 Searching Market (12/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting
+🔍 Searching Market (13/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (14/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (15/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (16/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (17/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (18/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (19/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (20/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting
+🔍 Searching Market (21/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (22/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting
+🔍 Searching Market (23/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (24/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (25/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (26/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting
+🔍 Searching Market (27/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (28/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (29/30)
+🎯 Opening In-Play Page
+🔍 Searching Market (30/30)
+🎯 Opening In-Play Page
+⚠ Market changed while selecting

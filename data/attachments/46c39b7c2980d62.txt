@@ -1,0 +1,31 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+📊 CURRENT - MATCHED BETS TEST STARTED
+==============================
+✔ Selected: Current Bets → Matched Bets
+🔍 Found 10 columns
+📊 Headers: [
+  'bet id',
+  'matched date & time',
+  'description',
+  'type',
+  'persistence',
+  'odds',
+  'price',
+  'stake',
+  'profit/loss',
+  'status'
+]
+✔ Headers validated successfully
+✔ Table validated successfully
+
+==============================
+🎉 current-matched-bets PASSED
+==============================
+

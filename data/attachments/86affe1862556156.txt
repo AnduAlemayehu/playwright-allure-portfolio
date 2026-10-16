@@ -1,0 +1,170 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+📱 Starting Matched Bet UI Validation - v1
+🎯 Creating MobileMatchedBetUIV1Page instance
+
+📱 MATCHED BET UI VALIDATION
+✅ Mobile page loaded
+✅ My Bets clicked
+✅ Existing matched bet found.
+
+📋 VALIDATING MATCHED BET TABLE
+================================
+✅ MATCHED Bet ID: 89278
+✅ Description: BBK Partnership v Colombo Aces / Completed Match / Yes
+
+Singer MCA Super Premier League
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89274
+✅ Description: BBK Partnership v Colombo Aces / Completed Match / Yes
+
+Singer MCA Super Premier League
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89292
+✅ Description: BBK Partnership v Colombo Aces / Match Odds / BBK Partnership
+
+Singer MCA Super Premier League
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89283
+✅ Description: BBK Partnership v Colombo Aces / Match Odds / BBK Partnership
+
+Singer MCA Super Premier League
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89277
+✅ Description: BBK Partnership v Colombo Aces / Match Odds / BBK Partnership
+
+Singer MCA Super Premier League
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89276
+✅ Description: BBK Partnership v Colombo Aces / Match Odds / BBK Partnership
+
+Singer MCA Super Premier League
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89275
+✅ Description: BBK Partnership v Colombo Aces / Tied Match / Yes
+
+Singer MCA Super Premier League
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89287
+✅ Description: East Bay Blazers v St Louis Americans / Match Odds / St Louis Americans
+
+Atlanta Open T20
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89281
+✅ Description: East Bay Blazers v St Louis Americans / Match Odds / East Bay Blazers
+
+Atlanta Open T20
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89280
+✅ Description: East Bay Blazers v St Louis Americans / Match Odds / East Bay Blazers
+
+Atlanta Open T20
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89268
+✅ Description: East Bay Blazers v St Louis Americans / Match Odds / East Bay Blazers
+
+Atlanta Open T20
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89270
+✅ Description: Bookmaker / India v West Indies / 0% Commission / India
+
+International Twenty20 Matches
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89256
+✅ Description: Bookmaker / India v West Indies / BOOKMAKER / India
+
+International Twenty20 Matches
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89291
+✅ Description: India v West Indies / Match Odds / India
+
+International Twenty20 Matches
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89284
+✅ Description: India v West Indies / Match Odds / India
+
+International Twenty20 Matches
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89279
+✅ Description: India v West Indies / Match Odds / India
+
+International Twenty20 Matches
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89272
+✅ Description: India v West Indies / Match Odds / India
+
+International Twenty20 Matches
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89269
+✅ Description: India v West Indies / Match Odds / India
+
+International Twenty20 Matches
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89271
+✅ Description: Fancy / India v West Indies / Runs / 10 Over Odd Run Bhav IND
+
+International Twenty20 Matches
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89296
+✅ Description: Parnu JK Vaprus U21 v Tabasalu JK / Match Odds / Parnu JK Vaprus U21
+
+Estonian Esiliiga B
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89295
+✅ Description: Parnu JK Vaprus U21 v Tabasalu JK / Match Odds / The Draw
+
+Estonian Esiliiga B
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89294
+✅ Description: Parnu JK Vaprus U21 v Tabasalu JK / Match Odds / Parnu JK Vaprus U21
+
+Estonian Esiliiga B
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89293
+✅ Description: Parnu JK Vaprus U21 v Tabasalu JK / Match Odds / Parnu JK Vaprus U21
+
+Estonian Esiliiga B
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89286
+✅ Description: Parnu JK Vaprus U21 v Tabasalu JK / Match Odds / The Draw
+
+Estonian Esiliiga B
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89285
+✅ Description: RR Stars v East Bay Blazers / Match Odds / RR Stars
+
+Atlanta Open T20
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89267
+✅ Description: Seattle Thunderbolts v All Stars Cardinals / Match Odds / Seattle Thunderbolts
+
+Atlanta Open T20
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89266
+✅ Description: Seattle Thunderbolts v All Stars Cardinals / Match Odds / Seattle Thunderbolts
+
+Atlanta Open T20
+✅ Status: MATCHED
+✅ MATCHED Bet ID: 89209
+✅ Description: St Louis Americans v Atlanta Lightning / Match Odds / St Louis Americans
+
+Atlanta Open T20
+✅ Status: MATCHED
+✅ MATCHED BET UI VALIDATION PASSED
+================================
+📱 MOBILE SESSION END
+================================
+

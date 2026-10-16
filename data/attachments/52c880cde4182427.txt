@@ -1,0 +1,15 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+📊 Start Profit & Loss Validation
+==============================
+⏱ Load Time: 1.659 s
+🔍 Total Markets: 96
+📊 Breakdown validated
+📥 Downloaded: betting profit & loss detail report.xlsx
+✅ Profit & Loss Validation Test Completed

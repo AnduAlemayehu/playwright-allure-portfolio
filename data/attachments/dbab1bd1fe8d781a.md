@@ -1,0 +1,1095 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e8]:
+    - generic [ref=e13]:
+      - link "In-Play" [active] [ref=e14] [cursor=pointer]:
+        - /url: /app/main/(navigation:sports//content:in-play)
+        - img [ref=e15]: stadium
+        - generic [ref=e16]: In-Play
+      - link "Soccer" [ref=e17] [cursor=pointer]:
+        - /url: /app/main/(navigation:sports//content:soccer)
+        - img [ref=e18]: sports_soccer
+        - generic [ref=e19]: Soccer
+      - button "More" [ref=e20] [cursor=pointer]:
+        - img [ref=e21]: more_horiz
+        - generic [ref=e22]: More
+        - img [ref=e23]: expand_more
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - textbox "Username" [ref=e31]
+        - textbox "Password" [ref=e33]
+      - generic [ref=e34]:
+        - button "Log In" [ref=e35] [cursor=pointer]
+        - button "Register" [ref=e36] [cursor=pointer]
+  - generic [ref=e40]:
+    - complementary [ref=e46]:
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - button [ref=e49] [cursor=pointer]:
+            - img [ref=e50]: home
+          - button [ref=e51] [cursor=pointer]:
+            - img [ref=e52]: search
+          - button "A-Z" [ref=e53] [cursor=pointer]:
+            - generic [ref=e54]: A-Z
+        - button [ref=e55] [cursor=pointer]:
+          - img [ref=e56]: chevron_left
+      - generic [ref=e57]:
+        - generic [ref=e59]: Menu
+        - generic [ref=e61]:
+          - button "Favorites" [ref=e63] [cursor=pointer]:
+            - generic [ref=e65]:
+              - img [ref=e66]: star
+              - generic [ref=e67]: Favorites
+          - region [ref=e71]:
+            - list [ref=e76]:
+              - listitem [ref=e77]:
+                - link "Soccer" [ref=e78] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event_type/1//content:in-play/current)
+                  - generic [ref=e79]:
+                    - img [ref=e80]: sports_soccer
+                    - generic [ref=e81]: Soccer
+                  - img [ref=e83]: chevron_right
+              - listitem [ref=e84]:
+                - link "Soccer - Fixtures" [ref=e85] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event_type/2147483647//content:in-play/current)
+                  - generic [ref=e86]:
+                    - img [ref=e87]: sports_score
+                    - generic [ref=e88]: Soccer - Fixtures
+                  - img [ref=e90]: chevron_right
+              - listitem [ref=e91]:
+                - link "Cricket" [ref=e92] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event_type/4//content:in-play/current)
+                  - generic [ref=e93]:
+                    - img [ref=e94]: sports_cricket
+                    - generic [ref=e95]: Cricket
+                  - img [ref=e97]: chevron_right
+              - listitem [ref=e98]:
+                - link "Tennis" [ref=e99] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event_type/2//content:in-play/current)
+                  - generic [ref=e100]:
+                    - img [ref=e101]: sports_tennis
+                    - generic [ref=e102]: Tennis
+                  - img [ref=e104]: chevron_right
+              - listitem [ref=e105]:
+                - link "Horse Racing" [ref=e106] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event_type/7//content:in-play/current)
+                  - generic [ref=e107]:
+                    - img [ref=e108]: sports_horse_racing
+                    - generic [ref=e109]: Horse Racing
+                  - img [ref=e111]: chevron_right
+              - listitem [ref=e112]:
+                - link "Horse Racing - Today's Card" [ref=e113] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event_type/2147483666//content:in-play/current)
+                  - generic [ref=e114]:
+                    - img [ref=e115]: sports_score
+                    - generic [ref=e116]: Horse Racing - Today's Card
+                  - img [ref=e118]: chevron_right
+      - generic [ref=e119]:
+        - generic [ref=e121]: TOP LEAGUES
+        - generic [ref=e122]:
+          - generic [ref=e123]: SOCCER
+          - link "Argentinian Primera Division" [ref=e124] [cursor=pointer]:
+            - /url: /app/main/(content:soccer/league/67387/Argentinian%20Primera%20Division//navigation:sports)
+            - generic [ref=e125]:
+              - img [ref=e126]: sports_soccer
+              - generic [ref=e127]: Argentinian Primera Division
+          - link "Austrian Erste Liga" [ref=e128] [cursor=pointer]:
+            - /url: /app/main/(content:soccer/league/9/Austrian%20Erste%20Liga//navigation:sports)
+            - generic [ref=e129]:
+              - img [ref=e130]: sports_soccer
+              - generic [ref=e131]: Austrian Erste Liga
+          - link "English Sky Bet League 1" [ref=e132] [cursor=pointer]:
+            - /url: /app/main/(content:soccer/league/35/English%20Sky%20Bet%20League%201//navigation:sports)
+            - generic [ref=e133]:
+              - img [ref=e134]: sports_soccer
+              - generic [ref=e135]: English Sky Bet League 1
+    - generic [ref=e140]:
+      - generic [ref=e143]:
+        - link "In-Play" [ref=e144] [cursor=pointer]:
+          - /url: /app/main/(navigation:sports//content:in-play/current)
+        - link "Today" [ref=e145] [cursor=pointer]:
+          - /url: /app/main/(navigation:sports//content:in-play/today)
+        - link "Tomorrow" [ref=e146] [cursor=pointer]:
+          - /url: /app/main/(navigation:sports//content:in-play/tomorrow)
+      - generic [ref=e148]:
+        - table [ref=e152]:
+          - rowgroup [ref=e153]:
+            - row "Event Volume 1 2" [ref=e154]:
+              - columnheader "Event" [ref=e155]:
+                - generic [ref=e156] [cursor=pointer]:
+                  - generic [ref=e157]: Event
+                  - img [ref=e158]: tune
+              - columnheader "Volume" [ref=e159]:
+                - generic [ref=e160] [cursor=pointer]:
+                  - generic [ref=e161]: Volume
+                  - img [ref=e162]: tune
+              - columnheader "1" [ref=e163]:
+                - generic [ref=e164]: "1"
+              - columnheader "2" [ref=e165]:
+                - generic [ref=e166]: "2"
+              - columnheader [ref=e167]:
+                - img [ref=e169]: more_horiz
+          - rowgroup [ref=e170]:
+            - row "International Twenty20 Matches" [ref=e171] [cursor=pointer]:
+              - cell "International Twenty20 Matches" [ref=e172]:
+                - generic [ref=e173]:
+                  - generic [ref=e174]: International Twenty20 Matches
+                  - img [ref=e175]: keyboard_arrow_down
+            - row "India v West Indies In-Play (International Twenty20 Matches) 1.263716407 6,012,120,064 1.88 78,609 1.89 278,225 2.12 250,934 2.14 69,119" [ref=e176]:
+              - cell "India v West Indies In-Play (International Twenty20 Matches) 1.263716407" [ref=e177]:
+                - link "India v West Indies In-Play" [ref=e178] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36180901//content:event-markets/36180901)
+                  - generic [ref=e180]: India v West Indies In-Play
+                - generic [ref=e181]: (International Twenty20 Matches) 1.263716407
+              - cell "6,012,120,064" [ref=e182]
+              - cell "1.88 78,609" [ref=e183]:
+                - generic [ref=e184]:
+                  - generic [ref=e185]: "1.88"
+                  - generic [ref=e186]: 78,609
+              - cell "1.89 278,225" [ref=e187]:
+                - generic [ref=e188]:
+                  - generic [ref=e189]: "1.89"
+                  - generic [ref=e190]: 278,225
+              - cell "2.12 250,934" [ref=e191]:
+                - generic [ref=e192]:
+                  - generic [ref=e193]: "2.12"
+                  - generic [ref=e194]: 250,934
+              - cell "2.14 69,119" [ref=e195]:
+                - generic [ref=e196]:
+                  - generic [ref=e197]: "2.14"
+                  - generic [ref=e198]: 69,119
+              - cell [ref=e199]:
+                - generic [ref=e200]:
+                  - button [ref=e201]:
+                    - img [ref=e202] [cursor=pointer]: info
+                  - button [ref=e203]:
+                    - img [ref=e204] [cursor=pointer]: add_circle
+            - row "World Championship of Legends T20" [ref=e205] [cursor=pointer]:
+              - cell "World Championship of Legends T20" [ref=e206]:
+                - generic [ref=e207]:
+                  - generic [ref=e208]: World Championship of Legends T20
+                  - img [ref=e209]: keyboard_arrow_down
+            - row "Bangladesh Legends v South Africa Legends In-Play (World Championship of Legends T20) 1.263806926 86,938,514 3.55 2,093 3.65 1,194 1.38 3,158 1.39 5,347" [ref=e210]:
+              - cell "Bangladesh Legends v South Africa Legends In-Play (World Championship of Legends T20) 1.263806926" [ref=e211]:
+                - link "Bangladesh Legends v South Africa Legends In-Play" [ref=e212] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36187345//content:event-markets/36187345)
+                  - generic [ref=e214]: Bangladesh Legends v South Africa Legends In-Play
+                - generic [ref=e215]: (World Championship of Legends T20) 1.263806926
+              - cell "86,938,514" [ref=e216]
+              - cell "3.55 2,093" [ref=e217]:
+                - generic [ref=e218]:
+                  - generic [ref=e219]: "3.55"
+                  - generic [ref=e220]: 2,093
+              - cell "3.65 1,194" [ref=e221]:
+                - generic [ref=e222]:
+                  - generic [ref=e223]: "3.65"
+                  - generic [ref=e224]: 1,194
+              - cell "1.38 3,158" [ref=e225]:
+                - generic [ref=e226]:
+                  - generic [ref=e227]: "1.38"
+                  - generic [ref=e228]: 3,158
+              - cell "1.39 5,347" [ref=e229]:
+                - generic [ref=e230]:
+                  - generic [ref=e231]: "1.39"
+                  - generic [ref=e232]: 5,347
+              - cell [ref=e233]:
+                - generic [ref=e234]:
+                  - button [ref=e235]:
+                    - img [ref=e236] [cursor=pointer]: info
+                  - button [ref=e237]:
+                    - img [ref=e238] [cursor=pointer]: add_circle
+            - row "Atlanta Open T20" [ref=e239] [cursor=pointer]:
+              - cell "Atlanta Open T20" [ref=e240]:
+                - generic [ref=e241]:
+                  - generic [ref=e242]: Atlanta Open T20
+                  - img [ref=e243]: keyboard_arrow_down
+            - row "East Bay Blazers v St Louis Americans In-Play (Atlanta Open T20) 1.263848984 1,224,856 1.31 130 1.4 48 3.5 19 4.3 141" [ref=e244]:
+              - cell "East Bay Blazers v St Louis Americans In-Play (Atlanta Open T20) 1.263848984" [ref=e245]:
+                - link "East Bay Blazers v St Louis Americans In-Play" [ref=e246] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36189104//content:event-markets/36189104)
+                  - generic [ref=e248]: East Bay Blazers v St Louis Americans In-Play
+                - generic [ref=e249]: (Atlanta Open T20) 1.263848984
+              - cell "1,224,856" [ref=e250]
+              - cell "1.31 130" [ref=e251]:
+                - generic [ref=e252]:
+                  - generic [ref=e253]: "1.31"
+                  - generic [ref=e254]: "130"
+              - cell "1.4 48" [ref=e255]:
+                - generic [ref=e256]:
+                  - generic [ref=e257]: "1.4"
+                  - generic [ref=e258]: "48"
+              - cell "3.5 19" [ref=e259]:
+                - generic [ref=e260]:
+                  - generic [ref=e261]: "3.5"
+                  - generic [ref=e262]: "19"
+              - cell "4.3 141" [ref=e263]:
+                - generic [ref=e264]:
+                  - generic [ref=e265]: "4.3"
+                  - generic [ref=e266]: "141"
+              - cell [ref=e267]:
+                - generic [ref=e268]:
+                  - button [ref=e269]:
+                    - img [ref=e270] [cursor=pointer]: info
+                  - button [ref=e271]:
+                    - img [ref=e272] [cursor=pointer]: add_circle
+            - row "Michigan Cricket Stars v Atlanta Force In-Play (Atlanta Open T20) 1.263848987 1,159,109 2.74 19 2.94 169 1.52 327 1.57 33" [ref=e273]:
+              - cell "Michigan Cricket Stars v Atlanta Force In-Play (Atlanta Open T20) 1.263848987" [ref=e274]:
+                - link "Michigan Cricket Stars v Atlanta Force In-Play" [ref=e275] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36189362//content:event-markets/36189362)
+                  - generic [ref=e277]: Michigan Cricket Stars v Atlanta Force In-Play
+                - generic [ref=e278]: (Atlanta Open T20) 1.263848987
+              - cell "1,159,109" [ref=e279]
+              - cell "2.74 19" [ref=e280]:
+                - generic [ref=e281]:
+                  - generic [ref=e282]: "2.74"
+                  - generic [ref=e283]: "19"
+              - cell "2.94 169" [ref=e284]:
+                - generic [ref=e285]:
+                  - generic [ref=e286]: "2.94"
+                  - generic [ref=e287]: "169"
+              - cell "1.52 327" [ref=e288]:
+                - generic [ref=e289]:
+                  - generic [ref=e290]: "1.52"
+                  - generic [ref=e291]: "327"
+              - cell "1.57 33" [ref=e292]:
+                - generic [ref=e293]:
+                  - generic [ref=e294]: "1.57"
+                  - generic [ref=e295]: "33"
+              - cell [ref=e296]:
+                - generic [ref=e297]:
+                  - button [ref=e298]:
+                    - img [ref=e299] [cursor=pointer]: info
+                  - button [ref=e300]:
+                    - img [ref=e301] [cursor=pointer]: add_circle
+            - row "Seattle Thunderbolts v All Stars Cardinals In-Play (Atlanta Open T20) 1.263848990 205,423 3.4 230 4.1 13 1.33 40 1.42 601" [ref=e302]:
+              - cell "Seattle Thunderbolts v All Stars Cardinals In-Play (Atlanta Open T20) 1.263848990" [ref=e303]:
+                - link "Seattle Thunderbolts v All Stars Cardinals In-Play" [ref=e304] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36189351//content:event-markets/36189351)
+                  - generic [ref=e306]: Seattle Thunderbolts v All Stars Cardinals In-Play
+                - generic [ref=e307]: (Atlanta Open T20) 1.263848990
+              - cell "205,423" [ref=e308]
+              - cell "3.4 230" [ref=e309]:
+                - generic [ref=e310]:
+                  - generic [ref=e311]: "3.4"
+                  - generic [ref=e312]: "230"
+              - cell "4.1 13" [ref=e313]:
+                - generic [ref=e314]:
+                  - generic [ref=e315]: "4.1"
+                  - generic [ref=e316]: "13"
+              - cell "1.33 40" [ref=e317]:
+                - generic [ref=e318]:
+                  - generic [ref=e319]: "1.33"
+                  - generic [ref=e320]: "40"
+              - cell "1.42 601" [ref=e321]:
+                - generic [ref=e322]:
+                  - generic [ref=e323]: "1.42"
+                  - generic [ref=e324]: "601"
+              - cell [ref=e325]:
+                - generic [ref=e326]:
+                  - button [ref=e327]:
+                    - img [ref=e328] [cursor=pointer]: info
+                  - button [ref=e329]:
+                    - img [ref=e330] [cursor=pointer]: add_circle
+        - table [ref=e334]:
+          - rowgroup [ref=e335]:
+            - row "Event Volume 1 X 2" [ref=e336]:
+              - columnheader "Event" [ref=e337]:
+                - generic [ref=e338] [cursor=pointer]:
+                  - generic [ref=e339]: Event
+                  - img [ref=e340]: tune
+              - columnheader "Volume" [ref=e341]:
+                - generic [ref=e342] [cursor=pointer]:
+                  - generic [ref=e343]: Volume
+                  - img [ref=e344]: tune
+              - columnheader "1" [ref=e345]:
+                - generic [ref=e346]: "1"
+              - columnheader "X" [ref=e347]:
+                - generic [ref=e348]: X
+              - columnheader "2" [ref=e349]:
+                - generic [ref=e350]: "2"
+              - columnheader [ref=e351]:
+                - img [ref=e353]: more_horiz
+          - rowgroup [ref=e354]:
+            - row "Other" [ref=e355] [cursor=pointer]:
+              - cell "Other" [ref=e356]:
+                - generic [ref=e357]:
+                  - generic [ref=e358]: Other
+                  - img [ref=e359]: keyboard_arrow_down
+            - row "Wetherby 14th Oct In-Play 1.263740744 2,030,487 3.5 2,821 5.7 99 5.2 33" [ref=e360]:
+              - cell "Wetherby 14th Oct In-Play 1.263740744" [ref=e361]:
+                - link "Wetherby 14th Oct In-Play" [ref=e362] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36183438//content:event-markets/36183438/market/1.263740744)
+                  - generic [ref=e364]: Wetherby 14th Oct In-Play
+                - generic [ref=e365]: "1.263740744"
+              - cell "2,030,487" [ref=e366]
+              - cell "3.5 2,821" [ref=e367]:
+                - generic [ref=e368]:
+                  - generic [ref=e369]: "3.5"
+                  - generic [ref=e370]: 2,821
+              - cell "5.7 99" [ref=e371]:
+                - generic [ref=e372]:
+                  - generic [ref=e373]: "5.7"
+                  - generic [ref=e374]: "99"
+              - cell "5.2 33" [ref=e375]:
+                - generic [ref=e376]:
+                  - generic [ref=e377]: "5.2"
+                  - generic [ref=e378]: "33"
+              - cell [ref=e379]:
+                - generic [ref=e380]:
+                  - button [ref=e381]:
+                    - img [ref=e382] [cursor=pointer]: info
+                  - button [ref=e383]:
+                    - img [ref=e384] [cursor=pointer]: add_circle
+        - table [ref=e388]:
+          - rowgroup [ref=e389]:
+            - row "Event Volume 1 2" [ref=e390]:
+              - columnheader "Event" [ref=e391]:
+                - generic [ref=e392] [cursor=pointer]:
+                  - generic [ref=e393]: Event
+                  - img [ref=e394]: tune
+              - columnheader "Volume" [ref=e395]:
+                - generic [ref=e396] [cursor=pointer]:
+                  - generic [ref=e397]: Volume
+                  - img [ref=e398]: tune
+              - columnheader "1" [ref=e399]:
+                - generic [ref=e400]: "1"
+              - columnheader "2" [ref=e401]:
+                - generic [ref=e402]: "2"
+              - columnheader [ref=e403]:
+                - img [ref=e405]: more_horiz
+          - rowgroup [ref=e406]:
+            - row "WTA Rovereto 2026" [ref=e407] [cursor=pointer]:
+              - cell "WTA Rovereto 2026" [ref=e408]:
+                - generic [ref=e409]:
+                  - generic [ref=e410]: WTA Rovereto 2026
+                  - img [ref=e411]: keyboard_arrow_down
+            - row "J Teichmann v L Bronzetti In-Play (WTA Rovereto 2026) 1.263815080 9,641,954 1.13 2,925 1.15 319 7.6 139 8.8 376" [ref=e412]:
+              - cell "J Teichmann v L Bronzetti In-Play (WTA Rovereto 2026) 1.263815080" [ref=e413]:
+                - link "J Teichmann v L Bronzetti In-Play" [ref=e414] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36188467//content:event-markets/36188467)
+                  - generic [ref=e416]: J Teichmann v L Bronzetti In-Play
+                - generic [ref=e417]: (WTA Rovereto 2026) 1.263815080
+              - cell "9,641,954" [ref=e418]
+              - cell "1.13 2,925" [ref=e419]:
+                - generic [ref=e420]:
+                  - generic [ref=e421]: "1.13"
+                  - generic [ref=e422]: 2,925
+              - cell "1.15 319" [ref=e423]:
+                - generic [ref=e424]:
+                  - generic [ref=e425]: "1.15"
+                  - generic [ref=e426]: "319"
+              - cell "7.6 139" [ref=e427]:
+                - generic [ref=e428]:
+                  - generic [ref=e429]: "7.6"
+                  - generic [ref=e430]: "139"
+              - cell "8.8 376" [ref=e431]:
+                - generic [ref=e432]:
+                  - generic [ref=e433]: "8.8"
+                  - generic [ref=e434]: "376"
+              - cell [ref=e435]:
+                - generic [ref=e436]:
+                  - button [ref=e437]:
+                    - img [ref=e438] [cursor=pointer]: info
+                  - button [ref=e439]:
+                    - img [ref=e440] [cursor=pointer]: add_circle
+            - row "Catania Challenger 2026" [ref=e441] [cursor=pointer]:
+              - cell "Catania Challenger 2026" [ref=e442]:
+                - generic [ref=e443]:
+                  - generic [ref=e444]: Catania Challenger 2026
+                  - img [ref=e445]: keyboard_arrow_down
+            - row "Papoe v Potenza In-Play (Catania Challenger 2026) 1.263820419 4,648,524 1.05 53,421 1.06 6,550 17.5 397 18.5 18" [ref=e446]:
+              - cell "Papoe v Potenza In-Play (Catania Challenger 2026) 1.263820419" [ref=e447]:
+                - link "Papoe v Potenza In-Play" [ref=e448] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36188700//content:event-markets/36188700)
+                  - generic [ref=e450]: Papoe v Potenza In-Play
+                - generic [ref=e451]: (Catania Challenger 2026) 1.263820419
+              - cell "4,648,524" [ref=e452]
+              - cell "1.05 53,421" [ref=e453]:
+                - generic [ref=e454]:
+                  - generic [ref=e455]: "1.05"
+                  - generic [ref=e456]: 53,421
+              - cell "1.06 6,550" [ref=e457]:
+                - generic [ref=e458]:
+                  - generic [ref=e459]: "1.06"
+                  - generic [ref=e460]: 6,550
+              - cell "17.5 397" [ref=e461]:
+                - generic [ref=e462]:
+                  - generic [ref=e463]: "17.5"
+                  - generic [ref=e464]: "397"
+              - cell "18.5 18" [ref=e465]:
+                - generic [ref=e466]:
+                  - generic [ref=e467]: "18.5"
+                  - generic [ref=e468]: "18"
+              - cell [ref=e469]:
+                - generic [ref=e470]:
+                  - button [ref=e471]:
+                    - img [ref=e472] [cursor=pointer]: info
+                  - button [ref=e473]:
+                    - img [ref=e474] [cursor=pointer]: add_circle
+            - row "ITF W50 Quebec City CAN" [ref=e475] [cursor=pointer]:
+              - cell "ITF W50 Quebec City CAN" [ref=e476]:
+                - generic [ref=e477]:
+                  - generic [ref=e478]: ITF W50 Quebec City CAN
+                  - img [ref=e479]: keyboard_arrow_down
+            - row "Ariana Arseneault v Justina Mikulskyte In-Play (ITF W50 Quebec City CAN) 1.263855447 3,771,794 1.06 1,293 1.07 7,290 15 520 18 76" [ref=e480]:
+              - cell "Ariana Arseneault v Justina Mikulskyte In-Play (ITF W50 Quebec City CAN) 1.263855447" [ref=e481]:
+                - link "Ariana Arseneault v Justina Mikulskyte In-Play" [ref=e482] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36190319//content:event-markets/36190319)
+                  - generic [ref=e484]: Ariana Arseneault v Justina Mikulskyte In-Play
+                - generic [ref=e485]: (ITF W50 Quebec City CAN) 1.263855447
+              - cell "3,771,794" [ref=e486]
+              - cell "1.06 1,293" [ref=e487]:
+                - generic [ref=e488]:
+                  - generic [ref=e489]: "1.06"
+                  - generic [ref=e490]: 1,293
+              - cell "1.07 7,290" [ref=e491]:
+                - generic [ref=e492]:
+                  - generic [ref=e493]: "1.07"
+                  - generic [ref=e494]: 7,290
+              - cell "15 520" [ref=e495]:
+                - generic [ref=e496]:
+                  - generic [ref=e497]: "15"
+                  - generic [ref=e498]: "520"
+              - cell "18 76" [ref=e499]:
+                - generic [ref=e500]:
+                  - generic [ref=e501]: "18"
+                  - generic [ref=e502]: "76"
+              - cell [ref=e503]:
+                - generic [ref=e504]:
+                  - button [ref=e505]:
+                    - img [ref=e506] [cursor=pointer]: info
+                  - button [ref=e507]:
+                    - img [ref=e508] [cursor=pointer]: add_circle
+            - row "Valentina Ryser v Yuki Naito In-Play (ITF W50 Quebec City CAN) 1.263852902 1,063,285 1.56 9,534 1.6 1,564 2.66 941 2.78 1,940" [ref=e509]:
+              - cell "Valentina Ryser v Yuki Naito In-Play (ITF W50 Quebec City CAN) 1.263852902" [ref=e510]:
+                - link "Valentina Ryser v Yuki Naito In-Play" [ref=e511] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36190318//content:event-markets/36190318)
+                  - generic [ref=e513]: Valentina Ryser v Yuki Naito In-Play
+                - generic [ref=e514]: (ITF W50 Quebec City CAN) 1.263852902
+              - cell "1,063,285" [ref=e515]
+              - cell "1.56 9,534" [ref=e516]:
+                - generic [ref=e517]:
+                  - generic [ref=e518]: "1.56"
+                  - generic [ref=e519]: 9,534
+              - cell "1.6 1,564" [ref=e520]:
+                - generic [ref=e521]:
+                  - generic [ref=e522]: "1.6"
+                  - generic [ref=e523]: 1,564
+              - cell "2.66 941" [ref=e524]:
+                - generic [ref=e525]:
+                  - generic [ref=e526]: "2.66"
+                  - generic [ref=e527]: "941"
+              - cell "2.78 1,940" [ref=e528]:
+                - generic [ref=e529]:
+                  - generic [ref=e530]: "2.78"
+                  - generic [ref=e531]: 1,940
+              - cell [ref=e532]:
+                - generic [ref=e533]:
+                  - button [ref=e534]:
+                    - img [ref=e535] [cursor=pointer]: info
+                  - button [ref=e536]:
+                    - img [ref=e537] [cursor=pointer]: add_circle
+            - row "Kisa Yoshioka v Hiromi Abe In-Play (ITF W50 Quebec City CAN) 1.263854230 231,707 17.5 891 26 600 1.04 15,000 1.06 14,717" [ref=e538]:
+              - cell "Kisa Yoshioka v Hiromi Abe In-Play (ITF W50 Quebec City CAN) 1.263854230" [ref=e539]:
+                - link "Kisa Yoshioka v Hiromi Abe In-Play" [ref=e540] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36190316//content:event-markets/36190316)
+                  - generic [ref=e542]: Kisa Yoshioka v Hiromi Abe In-Play
+                - generic [ref=e543]: (ITF W50 Quebec City CAN) 1.263854230
+              - cell "231,707" [ref=e544]
+              - cell "17.5 891" [ref=e545]:
+                - generic [ref=e546]:
+                  - generic [ref=e547]: "17.5"
+                  - generic [ref=e548]: "891"
+              - cell "26 600" [ref=e549]:
+                - generic [ref=e550]:
+                  - generic [ref=e551]: "26"
+                  - generic [ref=e552]: "600"
+              - cell "1.04 15,000" [ref=e553]:
+                - generic [ref=e554]:
+                  - generic [ref=e555]: "1.04"
+                  - generic [ref=e556]: 15,000
+              - cell "1.06 14,717" [ref=e557]:
+                - generic [ref=e558]:
+                  - generic [ref=e559]: "1.06"
+                  - generic [ref=e560]: 14,717
+              - cell [ref=e561]:
+                - generic [ref=e562]:
+                  - button [ref=e563]:
+                    - img [ref=e564] [cursor=pointer]: info
+                  - button [ref=e565]:
+                    - img [ref=e566] [cursor=pointer]: add_circle
+            - row "Olbia Challenger 2026" [ref=e567] [cursor=pointer]:
+              - cell "Olbia Challenger 2026" [ref=e568]:
+                - generic [ref=e569]:
+                  - generic [ref=e570]: Olbia Challenger 2026
+                  - img [ref=e571]: keyboard_arrow_down
+            - row "Lu Nardi v Carboni In-Play (Olbia Challenger 2026) 1.263838311 3,447,797 1.12 6,513 1.13 43,414 9 364 9.2 209" [ref=e572]:
+              - cell "Lu Nardi v Carboni In-Play (Olbia Challenger 2026) 1.263838311" [ref=e573]:
+                - link "Lu Nardi v Carboni In-Play" [ref=e574] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36190146//content:event-markets/36190146)
+                  - generic [ref=e576]: Lu Nardi v Carboni In-Play
+                - generic [ref=e577]: (Olbia Challenger 2026) 1.263838311
+              - cell "3,447,797" [ref=e578]
+              - cell "1.12 6,513" [ref=e579]:
+                - generic [ref=e580]:
+                  - generic [ref=e581]: "1.12"
+                  - generic [ref=e582]: 6,513
+              - cell "1.13 43,414" [ref=e583]:
+                - generic [ref=e584]:
+                  - generic [ref=e585]: "1.13"
+                  - generic [ref=e586]: 43,414
+              - cell "9 364" [ref=e587]:
+                - generic [ref=e588]:
+                  - generic [ref=e589]: "9"
+                  - generic [ref=e590]: "364"
+              - cell "9.2 209" [ref=e591]:
+                - generic [ref=e592]:
+                  - generic [ref=e593]: "9.2"
+                  - generic [ref=e594]: "209"
+              - cell [ref=e595]:
+                - generic [ref=e596]:
+                  - button [ref=e597]:
+                    - img [ref=e598] [cursor=pointer]: info
+                  - button [ref=e599]:
+                    - img [ref=e600] [cursor=pointer]: add_circle
+            - row "Maia Challenger 2026" [ref=e601] [cursor=pointer]:
+              - cell "Maia Challenger 2026" [ref=e602]:
+                - generic [ref=e603]:
+                  - generic [ref=e604]: Maia Challenger 2026
+                  - img [ref=e605]: keyboard_arrow_down
+            - row "Sanchez Quilez v An Nedic In-Play (Maia Challenger 2026) 1.263822194 2,221,497 1.51 43 1.54 42 2.84 23 2.98 22" [ref=e606]:
+              - cell "Sanchez Quilez v An Nedic In-Play (Maia Challenger 2026) 1.263822194" [ref=e607]:
+                - link "Sanchez Quilez v An Nedic In-Play" [ref=e608] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36188829//content:event-markets/36188829)
+                  - generic [ref=e610]: Sanchez Quilez v An Nedic In-Play
+                - generic [ref=e611]: (Maia Challenger 2026) 1.263822194
+              - cell "2,221,497" [ref=e612]
+              - cell "1.51 43" [ref=e613]:
+                - generic [ref=e614]:
+                  - generic [ref=e615]: "1.51"
+                  - generic [ref=e616]: "43"
+              - cell "1.54 42" [ref=e617]:
+                - generic [ref=e618]:
+                  - generic [ref=e619]: "1.54"
+                  - generic [ref=e620]: "42"
+              - cell "2.84 23" [ref=e621]:
+                - generic [ref=e622]:
+                  - generic [ref=e623]: "2.84"
+                  - generic [ref=e624]: "23"
+              - cell "2.98 22" [ref=e625]:
+                - generic [ref=e626]:
+                  - generic [ref=e627]: "2.98"
+                  - generic [ref=e628]: "22"
+              - cell [ref=e629]:
+                - generic [ref=e630]:
+                  - button [ref=e631]:
+                    - img [ref=e632] [cursor=pointer]: info
+                  - button [ref=e633]:
+                    - img [ref=e634] [cursor=pointer]: add_circle
+            - row "Nagal/Piros v Alcala Gurr/Sanchez Izq In-Play (Maia Challenger 2026) 1.263694312 227,246 17 810 36 59 1.03 2,060 1.07 12,865" [ref=e635]:
+              - cell "Nagal/Piros v Alcala Gurr/Sanchez Izq In-Play (Maia Challenger 2026) 1.263694312" [ref=e636]:
+                - link "Nagal/Piros v Alcala Gurr/Sanchez Izq In-Play" [ref=e637] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36180596//content:event-markets/36180596)
+                  - generic [ref=e639]: Nagal/Piros v Alcala Gurr/Sanchez Izq In-Play
+                - generic [ref=e640]: (Maia Challenger 2026) 1.263694312
+              - cell "227,246" [ref=e641]
+              - cell "17 810" [ref=e642]:
+                - generic [ref=e643]:
+                  - generic [ref=e644]: "17"
+                  - generic [ref=e645]: "810"
+              - cell "36 59" [ref=e646]:
+                - generic [ref=e647]:
+                  - generic [ref=e648]: "36"
+                  - generic [ref=e649]: "59"
+              - cell "1.03 2,060" [ref=e650]:
+                - generic [ref=e651]:
+                  - generic [ref=e652]: "1.03"
+                  - generic [ref=e653]: 2,060
+              - cell "1.07 12,865" [ref=e654]:
+                - generic [ref=e655]:
+                  - generic [ref=e656]: "1.07"
+                  - generic [ref=e657]: 12,865
+              - cell [ref=e658]:
+                - generic [ref=e659]:
+                  - button [ref=e660]:
+                    - img [ref=e661] [cursor=pointer]: info
+                  - button [ref=e662]:
+                    - img [ref=e663] [cursor=pointer]: add_circle
+            - row "Jecan/Kielan v Barrientos/Kiger In-Play (Maia Challenger 2026) 1.263694310 31,835 2.12 2,582 2.26 219 1.8 275 1.9 2,881" [ref=e664]:
+              - cell "Jecan/Kielan v Barrientos/Kiger In-Play (Maia Challenger 2026) 1.263694310" [ref=e665]:
+                - link "Jecan/Kielan v Barrientos/Kiger In-Play" [ref=e666] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36180595//content:event-markets/36180595)
+                  - generic [ref=e668]: Jecan/Kielan v Barrientos/Kiger In-Play
+                - generic [ref=e669]: (Maia Challenger 2026) 1.263694310
+              - cell "31,835" [ref=e670]
+              - cell "2.12 2,582" [ref=e671]:
+                - generic [ref=e672]:
+                  - generic [ref=e673]: "2.12"
+                  - generic [ref=e674]: 2,582
+              - cell "2.26 219" [ref=e675]:
+                - generic [ref=e676]:
+                  - generic [ref=e677]: "2.26"
+                  - generic [ref=e678]: "219"
+              - cell "1.8 275" [ref=e679]:
+                - generic [ref=e680]:
+                  - generic [ref=e681]: "1.8"
+                  - generic [ref=e682]: "275"
+              - cell "1.9 2,881" [ref=e683]:
+                - generic [ref=e684]:
+                  - generic [ref=e685]: "1.9"
+                  - generic [ref=e686]: 2,881
+              - cell [ref=e687]:
+                - generic [ref=e688]:
+                  - button [ref=e689]:
+                    - img [ref=e690] [cursor=pointer]: info
+                  - button [ref=e691]:
+                    - img [ref=e692] [cursor=pointer]: add_circle
+            - row "ITF W35 Heraklion GRE" [ref=e693] [cursor=pointer]:
+              - cell "ITF W35 Heraklion GRE" [ref=e694]:
+                - generic [ref=e695]:
+                  - generic [ref=e696]: ITF W35 Heraklion GRE
+                  - img [ref=e697]: keyboard_arrow_down
+            - row "Emma Mazzoni v Dunja Maric In-Play (ITF W35 Heraklion GRE) 1.263837069 1,642,310 100 38 990 0 - - 1.01 3,724" [ref=e698]:
+              - cell "Emma Mazzoni v Dunja Maric In-Play (ITF W35 Heraklion GRE) 1.263837069" [ref=e699]:
+                - link "Emma Mazzoni v Dunja Maric In-Play" [ref=e700] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36189013//content:event-markets/36189013)
+                  - generic [ref=e702]: Emma Mazzoni v Dunja Maric In-Play
+                - generic [ref=e703]: (ITF W35 Heraklion GRE) 1.263837069
+              - cell "1,642,310" [ref=e704]
+              - cell "100 38" [ref=e705]:
+                - generic [ref=e706]:
+                  - generic [ref=e707]: "100"
+                  - generic [ref=e708]: "38"
+              - cell "990 0" [ref=e709]:
+                - generic [ref=e710]:
+                  - generic [ref=e711]: "990"
+                  - generic [ref=e712]: "0"
+              - cell "- -" [ref=e713]:
+                - generic [ref=e714]:
+                  - generic [ref=e715]: "-"
+                  - generic [ref=e716]: "-"
+              - cell "1.01 3,724" [ref=e717]:
+                - generic [ref=e718]:
+                  - generic [ref=e719]: "1.01"
+                  - generic [ref=e720]: 3,724
+              - cell [ref=e721]:
+                - generic [ref=e722]:
+                  - button [ref=e723]:
+                    - img [ref=e724] [cursor=pointer]: info
+                  - button [ref=e725]:
+                    - img [ref=e726] [cursor=pointer]: add_circle
+            - row "Alisa Oktiabreva v Ofir manhard In-Play (ITF W35 Heraklion GRE) 1.263837068 746,725 1.01 7,675 1.02 6,164 50 126 110 70" [ref=e727]:
+              - cell "Alisa Oktiabreva v Ofir manhard In-Play (ITF W35 Heraklion GRE) 1.263837068" [ref=e728]:
+                - link "Alisa Oktiabreva v Ofir manhard In-Play" [ref=e729] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36189010//content:event-markets/36189010)
+                  - generic [ref=e731]: Alisa Oktiabreva v Ofir manhard In-Play
+                - generic [ref=e732]: (ITF W35 Heraklion GRE) 1.263837068
+              - cell "746,725" [ref=e733]
+              - cell "1.01 7,675" [ref=e734]:
+                - generic [ref=e735]:
+                  - generic [ref=e736]: "1.01"
+                  - generic [ref=e737]: 7,675
+              - cell "1.02 6,164" [ref=e738]:
+                - generic [ref=e739]:
+                  - generic [ref=e740]: "1.02"
+                  - generic [ref=e741]: 6,164
+              - cell "50 126" [ref=e742]:
+                - generic [ref=e743]:
+                  - generic [ref=e744]: "50"
+                  - generic [ref=e745]: "126"
+              - cell "110 70" [ref=e746]:
+                - generic [ref=e747]:
+                  - generic [ref=e748]: "110"
+                  - generic [ref=e749]: "70"
+              - cell [ref=e750]:
+                - generic [ref=e751]:
+                  - button [ref=e752]:
+                    - img [ref=e753] [cursor=pointer]: info
+                  - button [ref=e754]:
+                    - img [ref=e755] [cursor=pointer]: add_circle
+            - row "Noemi La Cagnina v Cristiana Todoni In-Play (ITF W35 Heraklion GRE) 1.263837208 493,185 12 77 21 106 1.06 194 1.09 844" [ref=e756]:
+              - cell "Noemi La Cagnina v Cristiana Todoni In-Play (ITF W35 Heraklion GRE) 1.263837208" [ref=e757]:
+                - link "Noemi La Cagnina v Cristiana Todoni In-Play" [ref=e758] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36189012//content:event-markets/36189012)
+                  - generic [ref=e760]: Noemi La Cagnina v Cristiana Todoni In-Play
+                - generic [ref=e761]: (ITF W35 Heraklion GRE) 1.263837208
+              - cell "493,185" [ref=e762]
+              - cell "12 77" [ref=e763]:
+                - generic [ref=e764]:
+                  - generic [ref=e765]: "12"
+                  - generic [ref=e766]: "77"
+              - cell "21 106" [ref=e767]:
+                - generic [ref=e768]:
+                  - generic [ref=e769]: "21"
+                  - generic [ref=e770]: "106"
+              - cell "1.06 194" [ref=e771]:
+                - generic [ref=e772]:
+                  - generic [ref=e773]: "1.06"
+                  - generic [ref=e774]: "194"
+              - cell "1.09 844" [ref=e775]:
+                - generic [ref=e776]:
+                  - generic [ref=e777]: "1.09"
+                  - generic [ref=e778]: "844"
+              - cell [ref=e779]:
+                - generic [ref=e780]:
+                  - button [ref=e781]:
+                    - img [ref=e782] [cursor=pointer]: info
+                  - button [ref=e783]:
+                    - img [ref=e784] [cursor=pointer]: add_circle
+            - row "Juliette Mazzoni v Miriam Bulgaru In-Play (ITF W35 Heraklion GRE) 1.263837071 292,471 100 67 990 0 - - 1.01 6,614" [ref=e785]:
+              - cell "Juliette Mazzoni v Miriam Bulgaru In-Play (ITF W35 Heraklion GRE) 1.263837071" [ref=e786]:
+                - link "Juliette Mazzoni v Miriam Bulgaru In-Play" [ref=e787] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36189014//content:event-markets/36189014)
+                  - generic [ref=e789]: Juliette Mazzoni v Miriam Bulgaru In-Play
+                - generic [ref=e790]: (ITF W35 Heraklion GRE) 1.263837071
+              - cell "292,471" [ref=e791]
+              - cell "100 67" [ref=e792]:
+                - generic [ref=e793]:
+                  - generic [ref=e794]: "100"
+                  - generic [ref=e795]: "67"
+              - cell "990 0" [ref=e796]:
+                - generic [ref=e797]:
+                  - generic [ref=e798]: "990"
+                  - generic [ref=e799]: "0"
+              - cell "- -" [ref=e800]:
+                - generic [ref=e801]:
+                  - generic [ref=e802]: "-"
+                  - generic [ref=e803]: "-"
+              - cell "1.01 6,614" [ref=e804]:
+                - generic [ref=e805]:
+                  - generic [ref=e806]: "1.01"
+                  - generic [ref=e807]: 6,614
+              - cell [ref=e808]:
+                - generic [ref=e809]:
+                  - button [ref=e810]:
+                    - img [ref=e811] [cursor=pointer]: info
+                  - button [ref=e812]:
+                    - img [ref=e813] [cursor=pointer]: add_circle
+            - row "WTA Lisboa 2026" [ref=e814] [cursor=pointer]:
+              - cell "WTA Lisboa 2026" [ref=e815]:
+                - generic [ref=e816]:
+                  - generic [ref=e817]: WTA Lisboa 2026
+                  - img [ref=e818]: keyboard_arrow_down
+            - row "Van Emst/Zaar v Cervino Ruiz/Voloshchuk In-Play (WTA Lisboa 2026) 1.263694306 172,717 1.02 5,503 1.04 1,256 26 50 55 102" [ref=e819]:
+              - cell "Van Emst/Zaar v Cervino Ruiz/Voloshchuk In-Play (WTA Lisboa 2026) 1.263694306" [ref=e820]:
+                - link "Van Emst/Zaar v Cervino Ruiz/Voloshchuk In-Play" [ref=e821] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36180589//content:event-markets/36180589)
+                  - generic [ref=e823]: Van Emst/Zaar v Cervino Ruiz/Voloshchuk In-Play
+                - generic [ref=e824]: (WTA Lisboa 2026) 1.263694306
+              - cell "172,717" [ref=e825]
+              - cell "1.02 5,503" [ref=e826]:
+                - generic [ref=e827]:
+                  - generic [ref=e828]: "1.02"
+                  - generic [ref=e829]: 5,503
+              - cell "1.04 1,256" [ref=e830]:
+                - generic [ref=e831]:
+                  - generic [ref=e832]: "1.04"
+                  - generic [ref=e833]: 1,256
+              - cell "26 50" [ref=e834]:
+                - generic [ref=e835]:
+                  - generic [ref=e836]: "26"
+                  - generic [ref=e837]: "50"
+              - cell "55 102" [ref=e838]:
+                - generic [ref=e839]:
+                  - generic [ref=e840]: "55"
+                  - generic [ref=e841]: "102"
+              - cell [ref=e842]:
+                - generic [ref=e843]:
+                  - button [ref=e844]:
+                    - img [ref=e845] [cursor=pointer]: info
+                  - button [ref=e846]:
+                    - img [ref=e847] [cursor=pointer]: add_circle
+            - row "Ebeling Koni/Tsygourova v Jorge/Jorge In-Play (WTA Lisboa 2026) 1.263837833 97,963 2.26 802 3.9 742 1.34 2,159 1.8 1,008" [ref=e848]:
+              - cell "Ebeling Koni/Tsygourova v Jorge/Jorge In-Play (WTA Lisboa 2026) 1.263837833" [ref=e849]:
+                - link "Ebeling Koni/Tsygourova v Jorge/Jorge In-Play" [ref=e850] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36190085//content:event-markets/36190085)
+                  - generic [ref=e852]: Ebeling Koni/Tsygourova v Jorge/Jorge In-Play
+                - generic [ref=e853]: (WTA Lisboa 2026) 1.263837833
+              - cell "97,963" [ref=e854]
+              - cell "2.26 802" [ref=e855]:
+                - generic [ref=e856]:
+                  - generic [ref=e857]: "2.26"
+                  - generic [ref=e858]: "802"
+              - cell "3.9 742" [ref=e859]:
+                - generic [ref=e860]:
+                  - generic [ref=e861]: "3.9"
+                  - generic [ref=e862]: "742"
+              - cell "1.34 2,159" [ref=e863]:
+                - generic [ref=e864]:
+                  - generic [ref=e865]: "1.34"
+                  - generic [ref=e866]: 2,159
+              - cell "1.8 1,008" [ref=e867]:
+                - generic [ref=e868]:
+                  - generic [ref=e869]: "1.8"
+                  - generic [ref=e870]: 1,008
+              - cell [ref=e871]:
+                - generic [ref=e872]:
+                  - button [ref=e873]:
+                    - img [ref=e874] [cursor=pointer]: info
+                  - button [ref=e875]:
+                    - img [ref=e876] [cursor=pointer]: add_circle
+            - row "Roanne Challenger 2026" [ref=e877] [cursor=pointer]:
+              - cell "Roanne Challenger 2026" [ref=e878]:
+                - generic [ref=e879]:
+                  - generic [ref=e880]: Roanne Challenger 2026
+                  - img [ref=e881]: keyboard_arrow_down
+            - row "Bass/Duncan v Pel/Smith In-Play (Roanne Challenger 2026) 1.263694952 151,793 3.45 90 3.9 2,232 1.35 6,448 1.41 219" [ref=e882]:
+              - cell "Bass/Duncan v Pel/Smith In-Play (Roanne Challenger 2026) 1.263694952" [ref=e883]:
+                - link "Bass/Duncan v Pel/Smith In-Play" [ref=e884] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36180675//content:event-markets/36180675)
+                  - generic [ref=e886]: Bass/Duncan v Pel/Smith In-Play
+                - generic [ref=e887]: (Roanne Challenger 2026) 1.263694952
+              - cell "151,793" [ref=e888]
+              - cell "3.45 90" [ref=e889]:
+                - generic [ref=e890]:
+                  - generic [ref=e891]: "3.45"
+                  - generic [ref=e892]: "90"
+              - cell "3.9 2,232" [ref=e893]:
+                - generic [ref=e894]:
+                  - generic [ref=e895]: "3.9"
+                  - generic [ref=e896]: 2,232
+              - cell "1.35 6,448" [ref=e897]:
+                - generic [ref=e898]:
+                  - generic [ref=e899]: "1.35"
+                  - generic [ref=e900]: 6,448
+              - cell "1.41 219" [ref=e901]:
+                - generic [ref=e902]:
+                  - generic [ref=e903]: "1.41"
+                  - generic [ref=e904]: "219"
+              - cell [ref=e905]:
+                - generic [ref=e906]:
+                  - button [ref=e907]:
+                    - img [ref=e908] [cursor=pointer]: info
+                  - button [ref=e909]:
+                    - img [ref=e910] [cursor=pointer]: add_circle
+        - table [ref=e914]:
+          - rowgroup [ref=e915]:
+            - row "Event Volume 1 X 2" [ref=e916]:
+              - columnheader "Event" [ref=e917]:
+                - generic [ref=e918] [cursor=pointer]:
+                  - generic [ref=e919]: Event
+                  - img [ref=e920]: tune
+              - columnheader "Volume" [ref=e921]:
+                - generic [ref=e922] [cursor=pointer]:
+                  - generic [ref=e923]: Volume
+                  - img [ref=e924]: tune
+              - columnheader "1" [ref=e925]:
+                - generic [ref=e926]: "1"
+              - columnheader "X" [ref=e927]:
+                - generic [ref=e928]: X
+              - columnheader "2" [ref=e929]:
+                - generic [ref=e930]: "2"
+              - columnheader [ref=e931]:
+                - img [ref=e933]: more_horiz
+          - rowgroup [ref=e934]:
+            - row "UEFA Youth League" [ref=e935] [cursor=pointer]:
+              - cell "UEFA Youth League" [ref=e936]:
+                - generic [ref=e937]:
+                  - generic [ref=e938]: UEFA Youth League
+                  - img [ref=e939]: keyboard_arrow_down
+            - row "Man City U19 v Paris St-G U19 In-Play (UEFA Youth League) 1.263832236 6,034,701 Suspended" [ref=e940]:
+              - cell "Man City U19 v Paris St-G U19 In-Play (UEFA Youth League) 1.263832236" [ref=e941]:
+                - link "Man City U19 v Paris St-G U19 In-Play" [ref=e942] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36189135//content:event-markets/36189135)
+                  - generic [ref=e944]: Man City U19 v Paris St-G U19 In-Play
+                - generic [ref=e945]: (UEFA Youth League) 1.263832236
+              - cell "6,034,701" [ref=e946]
+              - cell "Suspended" [ref=e947]:
+                - generic [ref=e949]: Suspended
+              - cell [ref=e950]:
+                - generic [ref=e951]:
+                  - button [ref=e952]:
+                    - img [ref=e953] [cursor=pointer]: info
+                  - button [ref=e954]:
+                    - img [ref=e955] [cursor=pointer]: add_circle
+            - row "Turkish 1 Lig" [ref=e956] [cursor=pointer]:
+              - cell "Turkish 1 Lig" [ref=e957]:
+                - generic [ref=e958]:
+                  - generic [ref=e959]: Turkish 1 Lig
+                  - img [ref=e960]: keyboard_arrow_down
+            - row "Umraniyespor v Boluspor In-Play (Turkish 1 Lig) 1.263636930 3,281,446 Suspended" [ref=e961]:
+              - cell "Umraniyespor v Boluspor In-Play (Turkish 1 Lig) 1.263636930" [ref=e962]:
+                - link "Umraniyespor v Boluspor In-Play" [ref=e963] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36175069//content:event-markets/36175069)
+                  - generic [ref=e965]: Umraniyespor v Boluspor In-Play
+                - generic [ref=e966]: (Turkish 1 Lig) 1.263636930
+              - cell "3,281,446" [ref=e967]
+              - cell "Suspended" [ref=e968]:
+                - generic [ref=e970]: Suspended
+              - cell [ref=e971]:
+                - generic [ref=e972]:
+                  - button [ref=e973]:
+                    - img [ref=e974] [cursor=pointer]: info
+                  - button [ref=e975]:
+                    - img [ref=e976] [cursor=pointer]: add_circle
+            - row "Indian Super League" [ref=e977] [cursor=pointer]:
+              - cell "Indian Super League" [ref=e978]:
+                - generic [ref=e979]:
+                  - generic [ref=e980]: Indian Super League
+                  - img [ref=e981]: keyboard_arrow_down
+            - row "Punjab FC v Odisha In-Play (Indian Super League) 1.263607433 2,184,046 1.02 1,280 1.03 2,422 34 73 55 24 1000 51 - -" [ref=e982]:
+              - cell "Punjab FC v Odisha In-Play (Indian Super League) 1.263607433" [ref=e983]:
+                - link "Punjab FC v Odisha In-Play" [ref=e984] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36171902//content:event-markets/36171902)
+                  - generic [ref=e986]: Punjab FC v Odisha In-Play
+                - generic [ref=e987]: (Indian Super League) 1.263607433
+              - cell "2,184,046" [ref=e988]
+              - cell "1.02 1,280" [ref=e989]:
+                - generic [ref=e990]:
+                  - generic [ref=e991]: "1.02"
+                  - generic [ref=e992]: 1,280
+              - cell "1.03 2,422" [ref=e993]:
+                - generic [ref=e994]:
+                  - generic [ref=e995]: "1.03"
+                  - generic [ref=e996]: 2,422
+              - cell "34 73" [ref=e997]:
+                - generic [ref=e998]:
+                  - generic [ref=e999]: "34"
+                  - generic [ref=e1000]: "73"
+              - cell "55 24" [ref=e1001]:
+                - generic [ref=e1002]:
+                  - generic [ref=e1003]: "55"
+                  - generic [ref=e1004]: "24"
+              - cell "1000 51" [ref=e1005]:
+                - generic [ref=e1006]:
+                  - generic [ref=e1007]: "1000"
+                  - generic [ref=e1008]: "51"
+              - cell "- -" [ref=e1009]:
+                - generic [ref=e1010]:
+                  - generic [ref=e1011]: "-"
+                  - generic [ref=e1012]: "-"
+              - cell [ref=e1013]:
+                - generic [ref=e1014]:
+                  - button [ref=e1015]:
+                    - img [ref=e1016] [cursor=pointer]: info
+                  - button [ref=e1017]:
+                    - img [ref=e1018] [cursor=pointer]: add_circle
+            - row "Cypriot Cup" [ref=e1019] [cursor=pointer]:
+              - cell "Cypriot Cup" [ref=e1020]:
+                - generic [ref=e1021]:
+                  - generic [ref=e1022]: Cypriot Cup
+                  - img [ref=e1023]: keyboard_arrow_down
+            - row "Spartakos Kitiou FC v Digenis Ypsona In-Play (Cypriot Cup) 1.263814196 642,098 6.8 91 7.2 1,259 3.1 13 3.2 628 1.84 3,343 1.88 1,170" [ref=e1024]:
+              - cell "Spartakos Kitiou FC v Digenis Ypsona In-Play (Cypriot Cup) 1.263814196" [ref=e1025]:
+                - link "Spartakos Kitiou FC v Digenis Ypsona In-Play" [ref=e1026] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36186904//content:event-markets/36186904)
+                  - generic [ref=e1028]: Spartakos Kitiou FC v Digenis Ypsona In-Play
+                - generic [ref=e1029]: (Cypriot Cup) 1.263814196
+              - cell "642,098" [ref=e1030]
+              - cell "6.8 91" [ref=e1031]:
+                - generic [ref=e1032]:
+                  - generic [ref=e1033]: "6.8"
+                  - generic [ref=e1034]: "91"
+              - cell "7.2 1,259" [ref=e1035]:
+                - generic [ref=e1036]:
+                  - generic [ref=e1037]: "7.2"
+                  - generic [ref=e1038]: 1,259
+              - cell "3.1 13" [ref=e1039]:
+                - generic [ref=e1040]:
+                  - generic [ref=e1041]: "3.1"
+                  - generic [ref=e1042]: "13"
+              - cell "3.2 628" [ref=e1043]:
+                - generic [ref=e1044]:
+                  - generic [ref=e1045]: "3.2"
+                  - generic [ref=e1046]: "628"
+              - cell "1.84 3,343" [ref=e1047]:
+                - generic [ref=e1048]:
+                  - generic [ref=e1049]: "1.84"
+                  - generic [ref=e1050]: 3,343
+              - cell "1.88 1,170" [ref=e1051]:
+                - generic [ref=e1052]:
+                  - generic [ref=e1053]: "1.88"
+                  - generic [ref=e1054]: 1,170
+              - cell [ref=e1055]:
+                - generic [ref=e1056]:
+                  - button [ref=e1057]:
+                    - img [ref=e1058] [cursor=pointer]: info
+                  - button [ref=e1059]:
+                    - img [ref=e1060] [cursor=pointer]: add_circle
+            - row "Saudi 1st Division" [ref=e1061] [cursor=pointer]:
+              - cell "Saudi 1st Division" [ref=e1062]:
+                - generic [ref=e1063]:
+                  - generic [ref=e1064]: Saudi 1st Division
+                  - img [ref=e1065]: keyboard_arrow_down
+            - row "Al-Jndal v Al-Akhdoud In-Play (Saudi 1st Division) 1.263820958 609,209 6.8 2,051 7.4 394 4.3 26 4.6 2,072 1.57 228 1.6 3,875" [ref=e1066]:
+              - cell "Al-Jndal v Al-Akhdoud In-Play (Saudi 1st Division) 1.263820958" [ref=e1067]:
+                - link "Al-Jndal v Al-Akhdoud In-Play" [ref=e1068] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36188575//content:event-markets/36188575)
+                  - generic [ref=e1070]: Al-Jndal v Al-Akhdoud In-Play
+                - generic [ref=e1071]: (Saudi 1st Division) 1.263820958
+              - cell "609,209" [ref=e1072]
+              - cell "6.8 2,051" [ref=e1073]:
+                - generic [ref=e1074]:
+                  - generic [ref=e1075]: "6.8"
+                  - generic [ref=e1076]: 2,051
+              - cell "7.4 394" [ref=e1077]:
+                - generic [ref=e1078]:
+                  - generic [ref=e1079]: "7.4"
+                  - generic [ref=e1080]: "394"
+              - cell "4.3 26" [ref=e1081]:
+                - generic [ref=e1082]:
+                  - generic [ref=e1083]: "4.3"
+                  - generic [ref=e1084]: "26"
+              - cell "4.6 2,072" [ref=e1085]:
+                - generic [ref=e1086]:
+                  - generic [ref=e1087]: "4.6"
+                  - generic [ref=e1088]: 2,072
+              - cell "1.57 228" [ref=e1089]:
+                - generic [ref=e1090]:
+                  - generic [ref=e1091]: "1.57"
+                  - generic [ref=e1092]: "228"
+              - cell "1.6 3,875" [ref=e1093]:
+                - generic [ref=e1094]:
+                  - generic [ref=e1095]: "1.6"
+                  - generic [ref=e1096]: 3,875
+              - cell [ref=e1097]:
+                - generic [ref=e1098]:
+                  - button [ref=e1099]:
+                    - img [ref=e1100] [cursor=pointer]: info
+                  - button [ref=e1101]:
+                    - img [ref=e1102] [cursor=pointer]: add_circle
+            - row "Estonian Esiliiga B" [ref=e1103] [cursor=pointer]:
+              - cell "Estonian Esiliiga B" [ref=e1104]:
+                - generic [ref=e1105]:
+                  - generic [ref=e1106]: Estonian Esiliiga B
+                  - img [ref=e1107]: keyboard_arrow_down
+            - row "Parnu JK Vaprus U21 v Tabasalu JK In-Play (Estonian Esiliiga B) 1.263814435 70,958 1.01 29,886 1.02 2,519 65 41 100 92 200 13 300 39" [ref=e1108]:
+              - cell "Parnu JK Vaprus U21 v Tabasalu JK In-Play (Estonian Esiliiga B) 1.263814435" [ref=e1109]:
+                - link "Parnu JK Vaprus U21 v Tabasalu JK In-Play" [ref=e1110] [cursor=pointer]:
+                  - /url: /app/main/(navigation:event/36187380//content:event-markets/36187380)
+                  - generic [ref=e1112]: Parnu JK Vaprus U21 v Tabasalu JK In-Play
+                - generic [ref=e1113]: (Estonian Esiliiga B) 1.263814435
+              - cell "70,958" [ref=e1114]
+              - cell "1.01 29,886" [ref=e1115]:
+                - generic [ref=e1116]:
+                  - generic [ref=e1117]: "1.01"
+                  - generic [ref=e1118]: 29,886
+              - cell "1.02 2,519" [ref=e1119]:
+                - generic [ref=e1120]:
+                  - generic [ref=e1121]: "1.02"
+                  - generic [ref=e1122]: 2,519
+              - cell "65 41" [ref=e1123]:
+                - generic [ref=e1124]:
+                  - generic [ref=e1125]: "65"
+                  - generic [ref=e1126]: "41"
+              - cell "100 92" [ref=e1127]:
+                - generic [ref=e1128]:
+                  - generic [ref=e1129]: "100"
+                  - generic [ref=e1130]: "92"
+              - cell "200 13" [ref=e1131]:
+                - generic [ref=e1132]:
+                  - generic [ref=e1133]: "200"
+                  - generic [ref=e1134]: "13"
+              - cell "300 39" [ref=e1135]:
+                - generic [ref=e1136]:
+                  - generic [ref=e1137]: "300"
+                  - generic [ref=e1138]: "39"
+              - cell [ref=e1139]:
+                - generic [ref=e1140]:
+                  - button [ref=e1141]:
+                    - img [ref=e1142] [cursor=pointer]: info
+                  - button [ref=e1143]:
+                    - img [ref=e1144] [cursor=pointer]: add_circle
+```

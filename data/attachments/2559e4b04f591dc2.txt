@@ -1,0 +1,177 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 PnL Display Validation
+📱 UI Version: V1
+==============================
+✅ In Play page loaded
+
+🏆 Checking SOCCER
+📊 SOCCER: 9 events
+🔎 Trying SOCCER event 1/9
+⚠️ SOCCER event 1: No market component rendered
+↩️ Returned using browser history
+🔎 Trying SOCCER event 2/9
+⚠️ SOCCER event 2: Could not process event
+   Reason: expect(locator).toBeVisible() failed
+
+Locator: locator('app-game-row').nth(1)
+Expected: visible
+Timeout: 10000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 10000ms
+  - waiting for locator('app-game-row').nth(1)
+
+↩️ Returned using browser history
+🔎 Trying SOCCER event 3/9
+📈 SOCCER event 3: 3 market(s) found
+📊 Markets found: 3
+   Market 1: 12 cells
+🎯 Available odd found: 1.88
+⚠️ SOCCER event 3: Could not process event
+   Reason: expect(locator).toBeVisible() failed
+
+Locator: getByPlaceholder('Stake')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 5000ms
+  - waiting for getByPlaceholder('Stake')
+
+↩️ Returned using browser history
+🔎 Trying SOCCER event 4/9
+📈 SOCCER event 4: 3 market(s) found
+📊 Markets found: 3
+   Market 1: 12 cells
+🎯 Available odd found: 2.04
+⚠️ SOCCER event 4: Could not process event
+   Reason: expect(locator).toBeVisible() failed
+
+Locator: getByPlaceholder('Stake')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 5000ms
+  - waiting for getByPlaceholder('Stake')
+
+↩️ Returned using browser history
+🔎 Trying SOCCER event 5/9
+📈 SOCCER event 5: 3 market(s) found
+📊 Markets found: 3
+   Market 1: 12 cells
+🎯 Available odd found: 2.52
+⚠️ SOCCER event 5: Could not process event
+   Reason: expect(locator).toBeVisible() failed
+
+Locator: getByPlaceholder('Stake')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 5000ms
+  - waiting for getByPlaceholder('Stake')
+
+↩️ Returned using browser history
+🔎 Trying SOCCER event 6/9
+📈 SOCCER event 6: 3 market(s) found
+📊 Markets found: 3
+   Market 1: 12 cells
+🎯 Available odd found: 1.67
+⚠️ SOCCER event 6: Could not process event
+   Reason: expect(locator).toBeVisible() failed
+
+Locator: getByPlaceholder('Stake')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 5000ms
+  - waiting for getByPlaceholder('Stake')
+
+↩️ Returned using browser history
+🔎 Trying SOCCER event 7/9
+📈 SOCCER event 7: 3 market(s) found
+📊 Markets found: 3
+   Market 1: 12 cells
+🎯 Available odd found: 3.15
+⚠️ SOCCER event 7: Could not process event
+   Reason: expect(locator).toBeVisible() failed
+
+Locator: getByPlaceholder('Stake')
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 5000ms
+  - waiting for getByPlaceholder('Stake')
+
+↩️ Returned using browser history
+🔎 Trying SOCCER event 8/9
+⚠️ SOCCER event 8: Could not process event
+   Reason: expect(locator).toBeVisible() failed
+
+Locator: locator('app-game-row').nth(7)
+Expected: visible
+Timeout: 10000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 10000ms
+  - waiting for locator('app-game-row').nth(7)
+
+↩️ Returned using browser history
+🔎 Trying SOCCER event 9/9
+⚠️ SOCCER event 9: Could not process event
+   Reason: expect(locator).toBeVisible() failed
+
+Locator: locator('app-game-row').nth(8)
+Expected: visible
+Timeout: 10000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" with timeout 10000ms
+  - waiting for locator('app-game-row').nth(8)
+
+↩️ Returned using browser history
+================================
+📱 MOBILE SESSION END
+================================
+
+⚠️ Browser history navigation failed
+
+🏆 Checking TENNIS
+⚠️ TENNIS tab not available
+
+🏆 Checking CRICKET
+⚠️ CRICKET tab not available
+
+🏆 Checking HORSE
+⚠️ HORSE tab not available
+
+🏆 Checking GREYHOUND
+⚠️ GREYHOUND tab not available
+
+⚠️ No active market with selectable odds found

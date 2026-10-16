@@ -1,0 +1,16 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+💰 Balance Update Validation
+==============================
+💰 Main Balance: 5276.35
+📉 Exposure: 200
+🎯 Available To Bet: 5076.35
+✅ Header balance formula validated
+📄 First Row Balance: 5,276.35
+📄 Statement Balance: 5276.35

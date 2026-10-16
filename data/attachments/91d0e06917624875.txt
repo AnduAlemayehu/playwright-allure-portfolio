@@ -1,0 +1,274 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+📱 MOBILE UNMATCHED BET PLACEMENT
+📱 UI VERSION: V1
+================================
+
+================================
+📱 MOBILE UNMATCHED BET PLACEMENT
+================================
+
+🔎 Verifying mobile page loaded...
+✅ Mobile page loaded
+🎯 Opening In Play...
+⚽ Soccer navigation available
+⚽ Soccer selected
+🔄 Waiting for events refresh...
+✅ Events refresh completed
+🔎 Searching for valid BACK odd...
+📊 Soccer: 144 BACK odds
+🖱 Trying BACK odd 1/144
+✅ Bet slip opened
+✅ Valid market opened
+🎯 Reading selected odd...
+🎯 Current selected odd: 3.1
+ℹ️ Odd field is editable.
+💰 Stake entered: 100
+🎯 Checking Place Bet button state...
+🎯 Place Bet enabled: true
+🖱️ Clicking Place Bet...
+⏳ Waiting for bet placement response...
+📨 Bet placement response received:
+TODAY 22:00
+25,481
+View event
+7.2
+815
+7.6
+815
+4.2
+340
+4.3
+340
+1.57
+6,790
+1.59
+6,790
+US UNITED SOCCER LEAGUE
+View event
+Sporting Club Jacksonville
+Birmingham Legion FC
+TODAY 23:00
+937
+View event
+3.65
+260
+3.8
+260
+4.2
+988
+4.5
+988
+1.96
+368
+2.02
+368
+View event
+Hartford Athletic FC
+Charleston Battery
+TODAY 23:00
+449
+View event
+2.72
+48
+2.82
+48
+3.75
+245
+3.9
+245
+2.62
+26
+2.72
+26
+View event
+Rhode Island FC
+Loudoun United FC
+TODAY 23:30
+728
+View event
+1.59
+377
+1.63
+377
+4.7
+131
+5
+131
+5.7
+557
+6.2
+557
+GUATEMALAN LIGA NACIONAL
+View event
+Comunicaciones
+Aurora FC
+TODAY 23:00
+771
+View event
+1.54
+759
+1.62
+759
+4.1
+83
+4.5
+83
+7.2
+87
+8.2
+87
+US MLS
+View event
+CF Montreal
+Atlanta Utd
+TODAY 23:30
+13,955
+View event
+2.42
+790
+2.46
+790
+3.85
+318
+4
+318
+2.98
+477
+3.05
+477
+View event
+Columbus
+Charlotte FC
+TODAY 23:30
+34,899
+View event
+2.02
+1,433
+2.06
+1,433
+4
+2,432
+4.3
+2,432
+3.65
+284
+3.75
+284
+View event
+Toronto FC
+Orlando City
+TODAY 23:30
+29,223
+View event
+2.38
+375
+2.42
+375
+4
+1,762
+4.2
+1,762
+2.92
+324
+3
+324
+View event
+Inter Miami CF
+New York City
+TODAY 23:30
+54,719
+View event
+1.57
+680
+1.59
+680
+5.1
+432
+5.3
+432
+5.5
+254
+5.7
+254
+View event
+FC Cincinnati
+New England Revolution
+TODAY 23:30
+183,007
+View event
+1.95
+41
+1.96
+41
+4.4
+1,090
+4.5
+1,090
+3.75
+368
+3.8
+368
+View event
+DC Utd
+New York Red Bulls
+TODAY 23:30
+84,455
+View event
+2.38
+159
+2.4
+159
+4.1
+97
+4.2
+97
+2.92
+229
+2.96
+229
+HOME
+MY MARKETS
+ASIAN CASINO
+MY BETS
+
+BACK - Feyenoord (Match Odds)
+
+Profit: 210
+
+10
+20
+30
+40
+50
+80
+80
+DEBUG
+
+New Total Exposure: 2,395.18
+
+CANCEL
+⚠️ No recognised placement response.
+⚠️ Business/backend error detected. Treating as accepted business condition.
+
+✅ TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

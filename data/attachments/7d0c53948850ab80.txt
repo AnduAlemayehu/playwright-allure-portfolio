@@ -1,0 +1,19 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+🎯 Opening Market Page
+✅ Market page opened successfully
+🧪 Validating Market Page UI
+✅ Event header is visible
+✅ Event timer is visible
+✅ Market tabs validated
+✅ Market sections validated: 3
+✅ Market headers validated: 3
+✅ Runner names validated: 6
+✅ Back label visible
+✅ Lay label visible
+✅ Odds cells validated: 36
+✅ Market Page UI validated successfully

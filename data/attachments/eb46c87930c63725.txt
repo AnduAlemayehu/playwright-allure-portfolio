@@ -1,0 +1,9 @@
+🖥 Body class: mat-typography skin-classic-active freedemokit_com
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+🎯 Target Event: "East Bay Blazers v St Louis Americans"
+🎯 Raw Odds Text:  1.12 
+🎯 Parsed Odds: 1.12

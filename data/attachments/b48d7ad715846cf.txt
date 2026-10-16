@@ -1,0 +1,27 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+🚀 START BACK ODDS VALIDATION FLOW
+
+
+🐎 VALIDATING AUS MARKET
+
+✅ BACK COLUMN IS VISIBLE
+✅ LAY COLUMN IS NOT DISPLAYED
+
+🐎 VALIDATING FRA MARKET
+
+✅ BACK COLUMN IS VISIBLE
+✅ LAY COLUMN IS NOT DISPLAYED
+
+🐎 VALIDATING GB MARKET
+
+✅ BACK COLUMN IS VISIBLE
+✅ LAY COLUMN IS NOT DISPLAYED
+
+✅ BACK ODDS VALIDATION COMPLETED SUCCESSFULLY
+

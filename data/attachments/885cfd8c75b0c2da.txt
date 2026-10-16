@@ -1,0 +1,40 @@
+Security test: navigating to https://dev-desktop.freedemokit.com/login
+[SECURITY-HTTP-400] GET https://s3.eu-west-1.amazonaws.com/dev-assets.sadmincontrol.com/freedemokit.com/footer.html
+[SECURITY-CONSOLE-ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request)
+[SECURITY-CONSOLE-ERROR] ERROR HttpErrorResponse
+[SECURITY-REQUEST-FAILED] GET https://s3.eu-west-1.amazonaws.com/dev-assets.sadmincontrol.com/freedemokit.com/logo_light.png
+[SECURITY-WEBSOCKET-OPEN] wss://dev-feed-rust.sadmincontrol.com/ws/c0ed9e4448e74007865e5bbd1f41cbbf
+🖥 Body class: mat-typography freedemokit_com skin-classic-active
+🖥 Desktop UI Version detected: V1
+Security test: starting fresh desktop login
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+[SECURITY-REQUEST-FAILED] POST https://dev-api.sadmincontrol.com/v1/api/my_payment_requests
+[SECURITY-REQUEST-FAILED] GET https://dev-api.sadmincontrol.com/v1/user/wallets
+[SECURITY-REQUEST-FAILED] GET https://dev-desktop.freedemokit.com/chunk-E2FY2J4Z.js
+[SECURITY-REQUEST-FAILED] GET https://dev-desktop.freedemokit.com/chunk-JMMFDIXA.js
+[SECURITY-WEBSOCKET-CLOSE] wss://dev-feed-rust.sadmincontrol.com/ws/c0ed9e4448e74007865e5bbd1f41cbbf
+[SECURITY-HTTP-400] GET https://s3.eu-west-1.amazonaws.com/dev-assets.sadmincontrol.com/freedemokit.com/footer.html
+[SECURITY-CONSOLE-ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request)
+[SECURITY-CONSOLE-ERROR] ERROR HttpErrorResponse
+[SECURITY-REQUEST-FAILED] GET https://s3.eu-west-1.amazonaws.com/dev-assets.sadmincontrol.com/freedemokit.com/logo_light.png
+[SECURITY-WEBSOCKET-OPEN] wss://dev-feed-rust.sadmincontrol.com/ws/64e06b5aaa334fa7b62cf170169fbd88
+✅ Desktop login successful!
+Security test: desktop login successful
+🖥 Body class: mat-typography freedemokit_com skin-classic-active
+🖥 Desktop UI Version detected: V1
+================================
+🔎 SECURITY MARKET FLOW START
+================================
+📊 Opening In-Play page...
+⏱ Inplay events loaded in 2.16 seconds
+✅ In-Play loaded in 2.16 seconds
+📈 Opening market page...
+📈 Clicking first available market...
+⏱ Market page loaded in 4.84 seconds
+✅ Market loaded in 4.84 seconds
+⏳ Waiting for live odds / WebSocket traffic...
+================================
+✅ SECURITY MARKET FLOW COMPLETE
+================================
+Security JSON report created: security-results/security-desktop-2026-10-14-build17818-worker35.json

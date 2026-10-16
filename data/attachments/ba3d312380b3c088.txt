@@ -1,0 +1,32 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 Mobile Bet Placement Performance Test
+📱 UI Version: V1
+==============================
+🔍 Checking SOCCER
+✅ Found valid market in SOCCER
+⏱ Bet placed in 6.31s
+⏱ Placement Time: 6.31s
+⚠️ Performance issue detected. Placement took 6.31s
+
+✅ TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

@@ -1,0 +1,44 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: freedemokit_com ui-skin-v1
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+======================================
+📱 MOBILE POST-LOGIN LANDING PAGE PERFORMANCE TEST
+======================================
+📱 DEPLOYED MOBILE VERSION: V1
+🔧 Using Mobile Landing Page V1 POM
+🔧 Using Mobile Landing Page V1 POM
+
+🚀 Validating landing page immediately after login...
+🔍 Validating initial landing page components...
+✅ Login visible
+✅ Search input visible
+✅ Menu button visible
+✅ Home tab visible
+✅ My Markets tab visible
+✅ Casino tab visible
+✅ My Bets tab visible
+
+📱⏱ Post-Login Landing UI Ready Time: 0.040 s
+✅ Performance PASSED: 0.040s <= 1.5s
+
+📱 Final Version: V1
+======================================
+✅ MOBILE POST-LOGIN LANDING PAGE TEST COMPLETED
+======================================
+================================
+📱 MOBILE SESSION END
+================================
+

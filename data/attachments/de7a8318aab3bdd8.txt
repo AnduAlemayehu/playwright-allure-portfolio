@@ -1,0 +1,42 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+======================================
+📱 MOBILE MARKET LOAD PERFORMANCE TEST
+======================================
+📱 DEPLOYED MOBILE VERSION: V1
+🔧 Using Mobile Load Market V1 POM
+
+🚀 Measuring InPlay loading...
+⏱ InPlay loaded in 1.81 seconds
+
+🚀 Measuring Market loading...
+⚡ Opening first InPlay event...
+⚡ Market loaded in 0.05 seconds
+
+--- Performance Report ---
+📱 Version: V1
+⚡ InPlay Speed: 1.81s
+⚡ Market Speed: 0.05s
+⚽ Events: 9
+
+======================================
+✅ MOBILE MARKET LOAD TEST COMPLETED
+======================================
+================================
+📱 MOBILE SESSION END
+================================
+

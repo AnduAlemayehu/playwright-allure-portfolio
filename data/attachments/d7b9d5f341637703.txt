@@ -1,0 +1,49 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+📱 MOBILE INPLAY EVENTS
+📱 UI VERSION: v1
+================================
+🔧 Using Mobile Inplay Events V1 POM
+
+🚀 START INPLAY EVENTS LOAD VALIDATION
+
+
+⚽ Checking Soccer
+✅ Soccer: Found 9 event(s)
+[
+  'View eventParnu JK Vaprus U21Tabasalu JKin-play 83,042View event1.0127,5121.0427,512408485841102426024',
+  'View eventSpartakos Kitiou FCDigenis Ypsonain-play 791,194View event6.4833783334163.14161.91,0631.951,063',
+  'View eventAris FC LimassolEthnikos Achnasin-play 459,078View event1.184,2401.194,2408.2368.63623552755',
+  'View eventAl-JndalAl-Akhdoudin-play 1,012,025View event7267.6264.2264.5261.583,9621.613,962',
+  'View eventAl JaziraArkadag FKin-play 1,117,339View event1.264,6541.274,6547397.4391411515.5115',
+  'View eventAl-Taawoun BuraidahAl Rayyanin-play 472,498View event3.3133.4133.6263.7262.342,2402.42,240',
+  'View eventKuwait SCAl Khalidiyahin-play 329,351View event2.621,0732.641,0733.65133.8132.786622.9662',
+  'View eventPaide LinnameeskondTammeka Tartuin-play 439,449View event1.77131.84134.3344.5344.59644.8964',
+  'View eventLevadia Tallinn IINomme Kalju IIin-play 194,980View event1.421281.451285.9326.63271997.8199'
+]
+
+⏱ Inplay events loaded in 1.75 seconds
+
+✅ Inplay events found: 9
+
+✅ INPLAY EVENTS TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

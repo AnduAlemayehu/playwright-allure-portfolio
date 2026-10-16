@@ -1,0 +1,1 @@
+⚠️ Wallet update took 4.389 s, which exceeds the 2-second threshold.

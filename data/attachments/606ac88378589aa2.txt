@@ -1,0 +1,84 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+📱 BET PLACEMENT NOTIFICATION VALIDATION
+================================
+📱 Creating Bet Notification POM for UI Version: v1
+📱 Using MobileBetNotificationV1Page
+✅ Mobile Bet Notification page loaded
+🎯 Opening In Play...
+🎯 In Play opened
+⚽ Soccer selected
+
+🎯 Validating Matched Bet Notification
+
+🎯 Placing normal bet...
+
+🔎 Searching for available betting market...
+🔍 Checking SOCCER
+📊 SOCCER: 36 odds found
+🎯 Selecting odd: 7 (button text: "In Play | 7")
+⚠️ Odd 7 did not open betslip
+⏭️ No valid odd in button: "670,788,091"
+🎯 Selecting odd: 2.28 (button text: "2.28 | 179,105")
+⚠️ Odd 2.28 did not open betslip
+🎯 Selecting odd: 2.3 (button text: "2.3 | 12,555")
+⚠️ Odd 2.3 did not open betslip
+🎯 Selecting odd: 1.78 (button text: "1.78 | 37,478")
+⚠️ Odd 1.78 did not open betslip
+🎯 Selecting odd: 1.78 (button text: "1.78 | 157,610")
+⚠️ Odd 1.78 did not open betslip
+⏭️ No valid odd in button: "120,567"
+🎯 Selecting odd: 1.3 (button text: "1.3 | 1,277")
+⚠️ Odd 1.3 did not open betslip
+🎯 Selecting odd: 1.4 (button text: "1.4 | 1,277")
+⚠️ Odd 1.4 did not open betslip
+🎯 Selecting odd: 3.5 (button text: "3.5 | 199")
+⚠️ Odd 3.5 did not open betslip
+🎯 Selecting odd: 4.4 (button text: "4.4 | 199")
+⚠️ Odd 4.4 did not open betslip
+⏭️ No valid odd in button: "115,623"
+🎯 Selecting odd: 2.44 (button text: "2.44 | 56")
+⚠️ Odd 2.44 did not open betslip
+🎯 Selecting odd: 2.98 (button text: "2.98 | 40")
+⚠️ Odd 2.98 did not open betslip
+🎯 Selecting odd: 1.53 (button text: "1.53 | 19")
+⚠️ Odd 1.53 did not open betslip
+🎯 Selecting odd: 1.68 (button text: "1.68 | 19")
+⚠️ Odd 1.68 did not open betslip
+⏭️ No valid odd in button: "19,967"
+🎯 Selecting odd: 3.5 (button text: "3.5 | 89")
+⚠️ Odd 3.5 did not open betslip
+🎯 Selecting odd: 4.1 (button text: "4.1 | 89")
+⚠️ Odd 4.1 did not open betslip
+🎯 Selecting odd: 1.33 (button text: "1.33 | 40")
+⚠️ Odd 1.33 did not open betslip
+🎯 Selecting odd: 1.4 (button text: "1.4 | 40")
+⚠️ Odd 1.4 did not open betslip
+================================
+📱 MOBILE SESSION END
+================================
+
+⚠️ No usable odds found in SOCCER
+🔍 Checking TENNIS
+⚠️ TENNIS tab is not visible
+🔍 Checking CRICKET
+⚠️ CRICKET tab is not visible
+🔍 Checking HORSE
+⚠️ HORSE tab is not visible
+🔍 Checking GREYHOUND
+⚠️ GREYHOUND tab is not visible

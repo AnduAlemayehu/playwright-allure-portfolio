@@ -1,0 +1,8 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+⏱ Post-login header, sidebar and main content ready in 0.43 s
+ℹ️ Footer is not rendered on this deployment; skipping it

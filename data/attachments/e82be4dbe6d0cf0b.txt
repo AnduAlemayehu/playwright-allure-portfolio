@@ -1,0 +1,84 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+🎯 Update Unmatched Odds Test
+==============================
+💰 Stake from JSON: 100
+✅ Verify page loaded
+✅ Click In-Play
+🎯 Opening In-Play Page
+🔍 Checking unmatched bets...
+🔍 verifyUnmatchedBets() returned: true
+✅ Existing unmatched bets found
+
+✅ Availability unmatched bet checked
+
+🎯 Updating unmatched odds
+🎯 Current odds: 9
+📈 Updating odds → 11.00
+
+==============================
+❌ TEST FAILED
+==============================
+locator.blur: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator('.open-bets-wrapper').locator('input[formcontrolname="price"]').first()
+    - locator resolved to <input min="1.01" max="1000" type="text" maxlength="7" formcontrolname="price" ng-reflect-name="price" ng-reflect-maxlength="7" _ngcontent-ng-c566653545="" ng-reflect-ng-class="[object Object]" class="price-input ng-touched ng-dirty ng-valid"/>
+  - element was detached from the DOM, retrying
+
+    at UpdateUnmatchedOddsV1Page.updatesUnmatchedOdds (/home/vsts/work/1/s/pages/desktop/UpdateUnmatchedOddsPage.ts:185:26)
+    at /home/vsts/work/1/s/tests/desktop/update-unmatched-odds.spec.ts:54:7 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/home/vsts/work/1/s/pages/desktop/UpdateUnmatchedOddsPage.ts',
+      line: 185,
+      column: 26,
+      function: 'UpdateUnmatchedOddsV1Page.updatesUnmatchedOdds'
+    },
+    category: 'pw:api',
+    title: `Blur locator('.open-bets-wrapper').locator('input[formcontrolname="price"]').first()`,
+    apiName: 'locator.blur',
+    params: {
+      selector: '.open-bets-wrapper >> input[formcontrolname="price"] >> nth=0',
+      strict: true,
+      timeout: 30000
+    },
+    group: undefined,
+    stepId: 'pw:api@73',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@73',
+      _title: `Blur locator('.open-bets-wrapper').locator('input[formcontrolname="price"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1791993819996,
+    error: {
+      message: 'TimeoutError: locator.blur: Timeout 30000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('.open-bets-wrapper').locator('input[formcontrolname="price"]').first()\x1B[22m\n` +
+        '\x1B[2m    - locator resolved to <input min="1.01" max="1000" type="text" maxlength="7" formcontrolname="price" ng-reflect-name="price" ng-reflect-maxlength="7" _ngcontent-ng-c566653545="" ng-reflect-ng-class="[object Object]" class="price-input ng-touched ng-dirty ng-valid"/>\x1B[22m\n' +
+        '\x1B[2m  - element was detached from the DOM, retrying\x1B[22m\n',
+      stack: 'TimeoutError: locator.blur: Timeout 30000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('.open-bets-wrapper').locator('input[formcontrolname="price"]').first()\x1B[22m\n` +
+        '\x1B[2m    - locator resolved to <input min="1.01" max="1000" type="text" maxlength="7" formcontrolname="price" ng-reflect-name="price" ng-reflect-maxlength="7" _ngcontent-ng-c566653545="" ng-reflect-ng-class="[object Object]" class="price-input ng-touched ng-dirty ng-valid"/>\x1B[22m\n' +
+        '\x1B[2m  - element was detached from the DOM, retrying\x1B[22m\n' +
+        '\n' +
+        '    at UpdateUnmatchedOddsV1Page.updatesUnmatchedOdds (/home/vsts/work/1/s/pages/desktop/UpdateUnmatchedOddsPage.ts:185:26)\n' +
+        '    at /home/vsts/work/1/s/tests/desktop/update-unmatched-odds.spec.ts:54:7',
+      cause: undefined
+    }
+  }
+}

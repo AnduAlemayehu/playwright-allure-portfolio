@@ -1,0 +1,66 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 Mobile Market Page UI Validation
+📱 UI VERSION: v1
+==============================
+🔧 Using Mobile Market Page UI V1 POM
+
+==============================
+🚀 MARKET PAGE UI VALIDATION
+==============================
+✅ Market page loaded
+✅ In Play opened
+
+🏆 Checking SOCCER
+📊 SOCCER: 9 events found
+🎯 Opening Parnu JK Vaprus U21 vs Tabasalu JK
+✅ Event page opened
+
+🔹 Validating Event Header
+Event : Estonian Esiliiga B - Parnu JK Vaprus U21 v Tabasalu JK
+✅ Event header validated
+
+🔹 Validating Markets
+Markets : 7
+✅ Markets displayed
+
+🔹 Validating Market Titles
+Titles : 21
+✅ Market titles validated
+
+🔹 Validating Odds
+Odds Elements : 150
+First Visible Odds : -
+✅ Odds displayed
+
+🔹 Validating Back/Lay Buttons
+Back Cells : 75
+Lay Cells  : 48
+✅ Back/Lay buttons validated
+
+🔹 Validating Page Content
+✅ Page contains content
+
+🎉 MARKET PAGE UI VALIDATION PASSED
+
+✅ TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

@@ -1,0 +1,18 @@
+🖥 Body class: mat-typography skin-classic-active freedemokit_com
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+⏳ Waiting for events...
+✅ Events loaded: 27
+📌 Events available: 27
+➡️ Event: India v West Indies  In-Play
+📊 Market 0
+❌ No valid odds
+📊 Market 1
+❌ No valid odds
+📊 Market 2
+❌ No valid odds
+📊 Market 3
+✅ Odds found: 6

@@ -1,0 +1,50 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+🚀 START AUTO SUSPEND VALIDATION
+
+
+🚀 START AUTO SUSPEND VALIDATION
+
+
+🎮 OPENING IN-PLAY PAGE
+✔ In-Play page opened
+
+⏳ SEARCHING SUSPENDED/CLOSED EVENT
+TOTAL EVENTS FOUND: 0
+⚠ No suspended event on In-Play
+
+🎮 OPENING SOCCER PAGE
+✔ Soccer page opened
+
+⏳ SEARCHING SUSPENDED/CLOSED EVENT
+TOTAL EVENTS FOUND: 0
+⚠ No suspended event on Soccer
+
+🎮 OPENING CRICKET PAGE
+⚠ Unable to open Cricket
+
+⏳ SEARCHING SUSPENDED/CLOSED EVENT
+TOTAL EVENTS FOUND: 0
+⚠ No suspended event on Cricket
+
+🎮 OPENING TENNIS PAGE
+⚠ Unable to open Tennis
+
+⏳ SEARCHING SUSPENDED/CLOSED EVENT
+TOTAL EVENTS FOUND: 0
+⚠ No suspended event on Tennis
+
+🎮 OPENING HORSE PAGE
+⚠ Unable to open Horse
+
+⏳ SEARCHING SUSPENDED/CLOSED EVENT
+TOTAL EVENTS FOUND: 0
+⚠ No suspended event on Horse
+
+⚠ No suspended/closed market found on any page
+✔ No suspension detected — system is in normal state

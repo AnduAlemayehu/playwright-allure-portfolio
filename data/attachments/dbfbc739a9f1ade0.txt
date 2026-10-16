@@ -1,0 +1,54 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 Mobile Auto Suspend Validation
+📱 UI VERSION: V1
+==============================
+
+🚀 START AUTO SUSPEND VALIDATION
+
+✅ Mobile Home page loaded
+▶️ In Play opened
+
+🏆 Checking SOCCER
+🖱️ SOCCER tab clicked
+📊 9 events
+
+🏆 Checking TENNIS
+🖱️ TENNIS tab clicked
+📊 15 events
+
+🏆 Checking CRICKET
+🖱️ CRICKET tab clicked
+📊 7 events
+
+🏆 Checking HORSE
+🖱️ HORSE tab clicked
+📊 1 events
+
+🏆 Checking GREYHOUND
+⚠️ GREYHOUND tab not available
+
+⚠️ No suspended/closed event found in any sport.
+ℹ️ Accepted condition - nothing to validate.
+
+✅ TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

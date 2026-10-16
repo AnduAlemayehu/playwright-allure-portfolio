@@ -1,0 +1,33 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 TAB SWITCH TEST STARTED
+📱 UI VERSION: V1
+==============================
+⏱ CRICKET Load Time: 1.39 s
+⏱ SOCCER Load Time: 0.81 s
+⏱ TENNIS Load Time: 1.09 s
+⏱ HORSE Load Time: 0.51 s
+
+==============================
+✅ TAB SWITCH TEST COMPLETED
+==============================
+
+================================
+📱 MOBILE SESSION END
+================================
+

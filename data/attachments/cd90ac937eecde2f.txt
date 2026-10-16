@@ -1,0 +1,46 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+📱 MARKET NAME CONSISTENCY TEST
+📱 UI VERSION: v1
+================================
+🔧 Using Mobile Market Name Consistency V1 POM
+
+==============================
+📊 MARKET NAME CONSISTENCY TEST
+==============================
+📌 Extracted Bet: {
+  event: 'BBK Partnership v Colombo Aces',
+  market: 'Completed Match',
+  selection: 'Yes Singer MCA Super Premier League'
+}
+🔍 Validating Market Page...
+✅ Event name matches
+✅ Market name matches
+✅ Selection name matches
+✅ All names match correctly
+==============================
+✅ MARKET CONSISTENCY PASSED
+==============================
+
+
+✅ MARKET NAME CONSISTENCY TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

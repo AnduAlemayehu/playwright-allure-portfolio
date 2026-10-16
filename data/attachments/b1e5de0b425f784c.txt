@@ -1,0 +1,9 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+⏱ Inplay events loaded in 3.90 seconds
+📈 Clicking first available market...
+⏱ Market page loaded in 9.60 seconds

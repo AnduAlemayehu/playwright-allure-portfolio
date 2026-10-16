@@ -1,0 +1,38 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 PnL Display Validation
+📱 UI Version: V1
+==============================
+✅ In Play page loaded
+
+🏆 Checking SOCCER
+📊 SOCCER: 9 events
+🔎 Trying SOCCER event 1/9
+📈 SOCCER event 1: 6 market(s) found
+📊 Markets found: 6
+   Market 1: 18 cells
+🎯 Available odd found: 1.01
+✅ Odd selected
+✅ SOCCER event 1: Active market found
+💰 Stake entered: 100
+🎯 Clicking Place Bet...
+📢 Placement response: Connecting...
+================================
+📱 MOBILE SESSION END
+================================
+

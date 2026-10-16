@@ -1,0 +1,104 @@
+❌ Unexpected Update Unmatched Bet failure: ExpectError: expect(locator).toHaveValue(expected) failed
+
+Locator:  getByPlaceholder('Stake')
+Expected: "50"
+Received: "100"
+Timeout:  10000ms
+
+Call log:
+  - Expect "toHaveValue" with timeout 10000ms
+  - waiting for getByPlaceholder('Stake')
+    14 × locator resolved to <input type="number" placeholder="Stake" formcontrolname="stake" ng-reflect-name="stake" _ngcontent-ng-c1693417702="" class="w-[63%] h-8 bg-(--ion-color-light) text-(--ion-color-dark) placeholder:text-gray-500 text-sm text-center font-bold border-[1.5px] border-black rounded-sm ng-untouched ng-valid ng-dirty"/>
+       - unexpected value "100"
+
+    at MobileUpdateUnmatchedBetV1Page.tryPlaceUnmatchedBet (/home/vsts/work/1/s/pages/mobile/update-unmatch-bet/MobileUpdateUnmatchedBetBasePage.ts:460:35)
+    at MobileUpdateUnmatchedBetV1Page.createUnmatchedBet (/home/vsts/work/1/s/pages/mobile/update-unmatch-bet/MobileUpdateUnmatchedBetBasePage.ts:371:14)
+    at MobileUpdateUnmatchedBetV1Page.updateUnmatchedOddScenario (/home/vsts/work/1/s/pages/mobile/update-unmatch-bet/MobileUpdateUnmatchedBetBasePage.ts:51:22)
+    at /home/vsts/work/1/s/tests/mobile/mobile-update-unmatched-odds.spec.ts:30:9 {
+  matcherResult: {
+    name: 'toHaveValue',
+    expected: '50',
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoHaveValue\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m failed\n' +
+      '\n' +
+      "Locator:  getByPlaceholder('Stake')\n" +
+      'Expected: \x1B[32m"\x1B[7m5\x1B[27m0"\x1B[39m\n' +
+      'Received: \x1B[31m"\x1B[7m10\x1B[27m0"\x1B[39m\n' +
+      'Timeout:  10000ms\n' +
+      '\n' +
+      'Call log:\n' +
+      '\x1B[2m  - Expect "toHaveValue" with timeout 10000ms\x1B[22m\n' +
+      "\x1B[2m  - waiting for getByPlaceholder('Stake')\x1B[22m\n" +
+      '\x1B[2m    14 × locator resolved to <input type="number" placeholder="Stake" formcontrolname="stake" ng-reflect-name="stake" _ngcontent-ng-c1693417702="" class="w-[63%] h-8 bg-(--ion-color-light) text-(--ion-color-dark) placeholder:text-gray-500 text-sm text-center font-bold border-[1.5px] border-black rounded-sm ng-untouched ng-valid ng-dirty"/>\x1B[22m\n' +
+      '\x1B[2m       - unexpected value "100"\x1B[22m\n',
+    pass: false,
+    actual: '100',
+    log: [
+      '  - Expect "toHaveValue" with timeout 10000ms',
+      "  - waiting for getByPlaceholder('Stake')",
+      '    14 × locator resolved to <input type="number" placeholder="Stake" formcontrolname="stake" ng-reflect-name="stake" _ngcontent-ng-c1693417702="" class="w-[63%] h-8 bg-(--ion-color-light) text-(--ion-color-dark) placeholder:text-gray-500 text-sm text-center font-bold border-[1.5px] border-black rounded-sm ng-untouched ng-valid ng-dirty"/>',
+      '       - unexpected value "100"'
+    ],
+    timeout: 10000
+  },
+  [Symbol(step)]: {
+    category: 'expect',
+    apiName: 'expect.toHaveValue',
+    title: `Expect "toHaveValue" getByPlaceholder('Stake')`,
+    shortTitle: 'Expect "toHaveValue"',
+    params: { expected: '50' },
+    infectParentStepsWithError: undefined,
+    stepId: 'expect@931',
+    group: undefined,
+    boxedStack: undefined,
+    location: {
+      file: '/home/vsts/work/1/s/pages/mobile/update-unmatch-bet/MobileUpdateUnmatchedBetBasePage.ts',
+      line: 460,
+      column: 35,
+      function: 'MobileUpdateUnmatchedBetV1Page.tryPlaceUnmatchedBet'
+    },
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'expect@931',
+      _title: `Expect "toHaveValue" getByPlaceholder('Stake')`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1791994346905,
+    error: {
+      message: 'Error: \x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoHaveValue\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m failed\n' +
+        '\n' +
+        "Locator:  getByPlaceholder('Stake')\n" +
+        'Expected: \x1B[32m"\x1B[7m5\x1B[27m0"\x1B[39m\n' +
+        'Received: \x1B[31m"\x1B[7m10\x1B[27m0"\x1B[39m\n' +
+        'Timeout:  10000ms\n' +
+        '\n' +
+        'Call log:\n' +
+        '\x1B[2m  - Expect "toHaveValue" with timeout 10000ms\x1B[22m\n' +
+        "\x1B[2m  - waiting for getByPlaceholder('Stake')\x1B[22m\n" +
+        '\x1B[2m    14 × locator resolved to <input type="number" placeholder="Stake" formcontrolname="stake" ng-reflect-name="stake" _ngcontent-ng-c1693417702="" class="w-[63%] h-8 bg-(--ion-color-light) text-(--ion-color-dark) placeholder:text-gray-500 text-sm text-center font-bold border-[1.5px] border-black rounded-sm ng-untouched ng-valid ng-dirty"/>\x1B[22m\n' +
+        '\x1B[2m       - unexpected value "100"\x1B[22m\n',
+      stack: 'Error: \x1B[2mexpect(\x1B[22m\x1B[31mlocator\x1B[39m\x1B[2m).\x1B[22mtoHaveValue\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m)\x1B[22m failed\n' +
+        '\n' +
+        "Locator:  getByPlaceholder('Stake')\n" +
+        'Expected: \x1B[32m"\x1B[7m5\x1B[27m0"\x1B[39m\n' +
+        'Received: \x1B[31m"\x1B[7m10\x1B[27m0"\x1B[39m\n' +
+        'Timeout:  10000ms\n' +
+        '\n' +
+        'Call log:\n' +
+        '\x1B[2m  - Expect "toHaveValue" with timeout 10000ms\x1B[22m\n' +
+        "\x1B[2m  - waiting for getByPlaceholder('Stake')\x1B[22m\n" +
+        '\x1B[2m    14 × locator resolved to <input type="number" placeholder="Stake" formcontrolname="stake" ng-reflect-name="stake" _ngcontent-ng-c1693417702="" class="w-[63%] h-8 bg-(--ion-color-light) text-(--ion-color-dark) placeholder:text-gray-500 text-sm text-center font-bold border-[1.5px] border-black rounded-sm ng-untouched ng-valid ng-dirty"/>\x1B[22m\n' +
+        '\x1B[2m       - unexpected value "100"\x1B[22m\n' +
+        '\n' +
+        '    at MobileUpdateUnmatchedBetV1Page.tryPlaceUnmatchedBet (/home/vsts/work/1/s/pages/mobile/update-unmatch-bet/MobileUpdateUnmatchedBetBasePage.ts:460:35)\n' +
+        '    at MobileUpdateUnmatchedBetV1Page.createUnmatchedBet (/home/vsts/work/1/s/pages/mobile/update-unmatch-bet/MobileUpdateUnmatchedBetBasePage.ts:371:14)\n' +
+        '    at MobileUpdateUnmatchedBetV1Page.updateUnmatchedOddScenario (/home/vsts/work/1/s/pages/mobile/update-unmatch-bet/MobileUpdateUnmatchedBetBasePage.ts:51:22)\n' +
+        '    at /home/vsts/work/1/s/tests/mobile/mobile-update-unmatched-odds.spec.ts:30:9',
+      cause: undefined
+    }
+  }
+}

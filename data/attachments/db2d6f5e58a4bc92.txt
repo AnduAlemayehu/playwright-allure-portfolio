@@ -1,0 +1,41 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+💰 COMMISSION CALCULATION TEST
+================================
+📱 Running Commission Calculation test against V1
+📱 V1: Opening mobile menu...
+✅ V1 menu opened
+Waiting for Account Statement rows... Current count: 16
+Account Statement loaded with 16 rows
+--------------------------------
+Event               : Qatar v Bahrain / COMPLETED_MATCH
+Won Credit          : 1
+Commission %        : 4.5
+Net Winning         : 1
+Actual Commission   : 0.04
+✅ Commission calculation verified.
+--------------------------------
+
+================================
+✅ COMMISSION CALCULATION COMPLETED
+================================
+
+================================
+📱 MOBILE SESSION END
+================================
+

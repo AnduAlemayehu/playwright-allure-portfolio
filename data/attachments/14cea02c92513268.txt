@@ -1,0 +1,13 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+🎯 Place Unmatched Bet Test start
+==============================
+🎯 Odds value: 2.04
+🎯 Adjust odds 2.04 → 9.04
+❌ Failed bet

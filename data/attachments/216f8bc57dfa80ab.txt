@@ -1,0 +1,12 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+🔹 Switching to Tennis
+⏱ Tennis: 3.41s
+🔹 Switching to Cricket
+⏱ Cricket: 1.25s
+🔹 Switching to Soccer
+⏱ Soccer: 0.74s

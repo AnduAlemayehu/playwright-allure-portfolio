@@ -1,0 +1,23 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+Desktop event clicked
+equalizer
+BBK Partnership
+======= BEFORE PLACE BET =======
+{ value: '2.52107', time: '15:50:32:95' }
+📝 Entering stake: 100
+✅ Bet SUCCESS (Toast)
+======= AFTER PLACE BET =======
+{ value: '2.52105', time: '15:50:36:829' }
+✅ BET SLIP VALUES: {
+  eventName: 'BBK Partnership v Colombo Aces',
+  marketRunner: 'BBK Partnership',
+  oddsValue: '2.52',
+  stakeValue: '100.00',
+  marketName: 'Match Odds',
+  betId: ' ID: 89276 '
+}

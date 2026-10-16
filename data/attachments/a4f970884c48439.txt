@@ -1,0 +1,93 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+📱 Negative Balance POM: V1
+
+================================
+💰 MOBILE NEGATIVE BALANCE VALIDATION
+================================
+✅ Mobile Home page loaded
+💰 V1 Available Balance: 0
+💰 V1 Exposure: 0
+
+📊 INITIAL WALLET
+Available : 0
+Exposure  : 0
+💰 V1 Available Balance: 5276.35
+💰 V1 Exposure: 0
+Available : 5276.35
+Exposure  : 0
+✅ Available balance is valid: 5276.35
+
+🎯 PLACING BET
+
+🎯 Opening In Play
+⚽ In Play opened
+
+================================
+🎯 FINDING AVAILABLE BACK MARKET
+================================
+
+🔍 Checking SOCCER
+📊 SOCCER: 27 BACK odds found
+🎯 Clicking BACK odd 1/27
+✅ BACK market selected in SOCCER
+✅ Bet slip opened successfully
+✅ Stake input is ready
+✅ Place Bet button is ready
+💰 Stake entered: 100
+🎯 Place Bet clicked
+📢 Placement response: Bet Placed and Matched
+✅ Bet placement successful: Bet Placed and Matched
+
+📊 WALLET AFTER BET
+💰 V1 Available Balance: 3181.17
+💰 V1 Exposure: -2095.18
+Available : 3181.17
+Exposure  : -2095.18
+💰 V1 Available Balance: 3181.17
+💰 V1 Exposure: -2095.18
+Available : 3181.17
+Exposure  : -2095.18
+✅ Available balance is valid: 3181.17
+
+🔄 ACCOUNT STATEMENT VALIDATION
+☰ Menu opened
+📄 Account Statement opened
+✅ Account Statement page loaded
+
+🏠 RETURNING TO HOME
+🏠 RETURNING TO HOME
+🏠 Returned to Home
+
+📊 FINAL WALLET VALIDATION
+💰 V1 Available Balance: 3181.17
+💰 V1 Exposure: -2095.18
+Available : 3181.17
+Exposure  : -2095.18
+💰 V1 Available Balance: 3181.17
+💰 V1 Exposure: -2095.18
+Available : 3181.17
+Exposure  : -2095.18
+✅ Available balance is valid: 3181.17
+
+================================
+✅ NEGATIVE BALANCE TEST COMPLETED
+================================
+
+================================
+📱 MOBILE SESSION END
+================================
+

@@ -1,0 +1,52 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+📱 Bet Placement POM: V1
+
+==============================
+📱 Single Click Bet Placement
+==============================
+🔎 Verifying mobile page loaded...
+✅ Mobile Home page loaded
+🎯 Opening betting page
+✅ Soccer betting page opened
+
+================================
+📱 SINGLE CLICK BET PLACEMENT
+================================
+
+🔎 FINDING AVAILABLE BACK MARKET
+📊 BACK odds found: 144
+🎯 Clicking ONE BACK odd
+✅ BACK odd clicked
+✅ Bet slip opened
+💰 Stake entered: 100
+✅ Place Bet button enabled
+🚀 Clicking Place Bet
+⏱️ BACK click → Place Bet response: 1190 ms
+✅ Placement performance target passed: 1190 ms
+🔎 Waiting for placement response...
+✅ Bet placement successful
+✅ SINGLE CLICK BET PLACEMENT PASSED
+⏱ Placement Time: placeds
+
+✅ Single Click Bet Placement Successful
+
+✅ TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

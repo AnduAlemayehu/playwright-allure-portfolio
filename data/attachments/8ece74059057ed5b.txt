@@ -1,0 +1,33 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+📱 Core Sports test running against V1
+🔎 Cricket count: 1
+✅ Verified presence of sport: Cricket
+🔎 Soccer count: 1
+✅ Verified presence of sport: Soccer
+🔎 Tennis count: 1
+✅ Verified presence of sport: Tennis
+🔎 Horse Racing count: 1
+✅ Verified presence of sport: Horse Racing
+🔎 Greyhound Racing count: 0
+❌ Missing sport: Greyhound Racing
+🔎 Basketball count: 0
+❌ Missing sport: Basketball
+🎯 All 6 core sports verified in mobile menu
+================================
+📱 MOBILE SESSION END
+================================
+

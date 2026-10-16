@@ -1,0 +1,42 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+⚙️ BETSLIP SETTINGS TEST
+================================
+📱 Running Betslip Settings test against V1
+🎯 Betslip Settings POM initialized: V1
+🔎 Checking Persistence: Keep
+🔎 Page closed: false
+🔎 Current URL: https://dev-mobile.freedemokit.com/home
+🔎 Persistence groups: 0
+🔎 Keep radio count: 0
+🔎 Checking Persistence: Cancel
+🔎 Page closed: false
+🔎 Current URL: https://dev-mobile.freedemokit.com/bet-slip-settings
+🔎 Persistence groups: 1
+🔎 Persistence visible: true
+🔎 Keep radio count: 1
+🔎 Keep visible: true
+
+================================
+✅ BETSLIP SETTINGS TEST COMPLETED
+================================
+
+================================
+📱 MOBILE SESSION END
+================================
+

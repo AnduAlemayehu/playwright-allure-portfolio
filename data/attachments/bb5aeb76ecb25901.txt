@@ -1,0 +1,71 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+📱 Mobile Cancel All Bets Test
+================================
+
+================================
+📱 CANCEL ALL BETS FLOW START
+================================
+🔍 Verifying page loaded...
+✅ Mobile page loaded
+🎯 Opening In Play...
+✅ In Play opened
+⚽ Soccer selected
+🔄 Waiting for events refresh...
+✅ Events refresh completed
+📦 Creating 2 unmatched bets...
+
+🔍 Attempt 1: Soccer
+📊 Soccer: 27 BACK odds
+✅ Market selected in Soccer
+🎯 Odd change 1.02 → 12
+🚀 Clicking Place Bet...
+📩 Placement Response: "Bet Placed but Unmatched"
+✅ Unmatched bet created
+📊 Unmatched bets created: 1/2
+🏷 Sports used: Soccer
+
+🔍 Attempt 2: Tennis
+📊 Tennis: 45 BACK odds
+✅ Market selected in Tennis
+🎯 Odd change 100 → 110
+🚀 Clicking Place Bet...
+📩 Placement Response: "Bet Placed but Unmatched"
+✅ Unmatched bet created
+📊 Unmatched bets created: 2/2
+🏷 Sports used: Soccer, Tennis
+
+✅ 2 unmatched bets successfully created
+📂 Opening My Bets...
+✅ My Bets opened
+❌ Cancelling all bets...
+🖱 Clicking Cancel All...
+ℹ️ Cancel All action completed without visible confirmation
+✅ Cancel All Bets completed
+
+==============================
+✅ CANCEL ALL BETS SUCCESS
+==============================
+
+
+✅ CANCEL ALL BETS TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

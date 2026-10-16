@@ -1,0 +1,75 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+➡️ Event 0
+   📊 Market index: 0
+   ❌ No valid odds
+   📊 Market index: 1
+   ❌ No valid odds
+   📊 Market index: 2
+   ❌ No valid odds
+   📊 Market index: 3
+   ✅ Bet placed
+   📊 Market index: 4
+   ✅ Bet placed
+   📊 Market index: 5
+   ❌ Place Bet disabled; removing unavailable selection
+   📊 Market index: 6
+   ❌ No valid odds
+   📊 Market index: 7
+   ❌ No valid odds
+   📊 Market index: 8
+   ❌ No valid odds
+   📊 Market index: 9
+   ❌ No valid odds
+   📊 Market index: 10
+   ❌ No valid odds
+   📊 Market index: 11
+   ❌ No valid odds
+   📊 Market index: 12
+   ❌ No valid odds
+   📊 Market index: 13
+   ❌ No valid odds
+   📊 Market index: 14
+   ❌ No valid odds
+   📊 Market index: 15
+   ❌ No valid odds
+   📊 Market index: 16
+   ❌ No valid odds
+   📊 Market index: 17
+   ❌ No valid odds
+   📊 Market index: 18
+   ❌ No valid odds
+   📊 Market index: 19
+   ❌ No valid odds
+   📊 Market index: 20
+   ❌ No valid odds
+   📊 Market index: 21
+   ❌ No valid odds
+   📊 Market index: 22
+   ❌ No valid odds
+   📊 Market index: 23
+   ✅ Bet placed
+✅ Total Bets Placed: 3
+Event Count: 6
+Checking Event:  India v West Indies 
+  Market Count: 1
+    Market:  Match Odds 
+Checking Event:  East Bay Blazers v St Louis Americans 
+  Market Count: 1
+    Market:  Match Odds 
+Checking Event:  Seattle Thunderbolts v All Stars Cardinals 
+  Market Count: 1
+    Market:  Match Odds 
+Checking Event:  St Louis Americans v Atlanta Lightning 
+  Market Count: 1
+    Market:  Match Odds 
+Checking Event:  India v West Indies 
+  Market Count: 1
+    Market:  0% Commission 
+Checking Event:  India v West Indies 
+  Market Count: 1
+    Market:  Runs 

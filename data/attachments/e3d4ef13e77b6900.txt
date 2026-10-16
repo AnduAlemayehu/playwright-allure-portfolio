@@ -1,0 +1,25 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+🔧 Using Mobile Past Bets V1 POM
+
+==============================
+✅ PAST BETS SETTLED TEST COMPLETED
+==============================
+
+================================
+📱 MOBILE SESSION END
+================================
+

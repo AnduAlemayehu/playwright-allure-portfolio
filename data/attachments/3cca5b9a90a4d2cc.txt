@@ -1,0 +1,31 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+📱 Mobile Event Search Performance
+📱 UI Version: V1
+==============================
+🎯 Searching for: Parnu JK Vaprus U21
+⏱ Search completed in 1.9s
+⏱ Search Time: 1.9s
+✅ Event detail page displayed
+
+✅ TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

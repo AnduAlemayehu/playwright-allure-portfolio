@@ -1,0 +1,37 @@
+🖥 Body class: mat-typography skin-classic-active freedemokit_com
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+🚀 TEST STARTED
+==============================
+✅ Betslip Settings page opened
+✅ Radio setting applied: Disable
+✅ Radio setting applied: Keep
+✅ Radio setting applied: Traditional Betslip
+
+🔄 Updating Default Stake: 80 → 100
+✅ Settings saved successfully (MODIFICATION)
+
+🔁 Refreshing to verify persistence...
+✅ Betslip Settings page opened
+✔ Verified persisted radio: Disable
+✔ Verified persisted radio: Keep
+✔ Verified persisted radio: Traditional Betslip
+✔ Verified persisted stake: 100
+
+🔄 Reverting settings back to original values...
+✅ Radio setting applied: Enable
+✅ Radio setting applied: Cancel
+✅ Radio setting applied: One-Click-Betting Betslip
+
+🔄 Updating Default Stake: 100 → 80
+✅ Settings saved successfully (REVERT)
+
+==============================
+✅ TEST COMPLETED SUCCESSFULLY
+==============================
+

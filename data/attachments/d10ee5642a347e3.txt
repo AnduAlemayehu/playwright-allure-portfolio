@@ -1,0 +1,13 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+🎯 BetPlacement perfomance Test start
+==============================
+✅ Bet placed successfully at odds 1.24
+⏱ bet placed in 6.48 seconds
+⏱ Total time to place bet: 6.48 seconds

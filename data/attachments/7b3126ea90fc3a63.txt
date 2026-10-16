@@ -1,0 +1,30 @@
+🖥 Body class: mat-typography skin-classic-active freedemokit_com
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+📊 ACCOUNT STATEMENT FILTER & DOWNLOAD TEST STARTED
+==============================
+✔ Applied date range: 9/29/2026 - 10/14/2026
+📊 Visible rows: 40
+✔ Extracted 40 UI transactions
+✔ All transactions within 30 days
+✔ No duplicate Bet IDs
+✔ Excel downloaded successfully
+✔ Parsed 130 rows from Excel
+==================================
+📊 COMPARISON SUMMARY
+UI rows: 40
+Excel rows: 130
+Matched: 40
+Missing: 0
+==================================
+✅ UI and Excel are FULLY CONSISTENT
+
+==============================
+🎉 FILTER & DOWNLOAD VALIDATION PASSED
+==============================
+

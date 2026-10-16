@@ -1,0 +1,15 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+🔤 Validating Name Sorting
+📌 Initial Events: BBK Partnership v Colombo Aces | Hayleys Group A v Fairfirst Insurance
+📌 Sorted Events: Western Province v Boland | Limpopo v Eastern Cape Linyathi
+✅ Name sorting validated successfully
+📊 Validating Volume Sorting
+📌 Desc Volumes: 1962955 | 1941847
+✅ Descending volume sorting validated
+📌 Asc Volumes: 0 | 0
+✅ Ascending volume sorting validated

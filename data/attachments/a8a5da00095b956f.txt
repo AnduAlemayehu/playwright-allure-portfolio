@@ -1,0 +1,124 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+================================
+📱 REAL-TIME BALANCE TEST STARTED
+================================
+
+📱 UI Version: v1
+⏳ Waiting for authenticated mobile home page...
+✅ Mobile home page is ready
+
+💰 Capturing wallet BEFORE bet...
+⏳ Waiting for authenticated mobile home page...
+✅ Mobile home page is ready
+💰 Capturing wallet...
+🔎 V1 Wallet DOM Text: "Avl.: 4976.35
+
+Exp.: -300"
+💰 V1 Available Parsed: 4976.35
+🔎 V1 Wallet DOM Text: "Avl.: 4976.35
+
+Exp.: -300"
+📊 V1 Exposure Parsed: -300
+🔎 V1 Wallet DOM Text: "Avl.: 4976.35
+
+Exp.: -300"
+💰 V1 Available Parsed: 4976.35
+🔎 V1 Wallet DOM Text: "Avl.: 4976.35
+
+Exp.: -300"
+📊 V1 Exposure Parsed: -300
+💰 Wallet: Available=4976.35 | Exposure=-300
+Available Before: 4976.35
+Exposure Before: -300
+
+🎯 App is already on In Play after login.
+🎯 Searching for a valid BACK odd...
+
+🎯 Searching all available events for valid BACK odds...
+🎯 Checking current In Play events...
+⏳ Waiting for authenticated mobile home page...
+✅ Mobile home page is ready
+✅ In Play already loaded: 7 event(s)
+🎯 Events currently displayed: 7
+
+🔎 Checking Event 1:
+View event | India | West Indies | IN-PLAY
+   BACK cells: 3
+   BACK 1: "2.56"
+   ✅ VALID BACK ODD FOUND: 2.56
+   ✅ BACK odd 2.56 clicked
+✅ Valid BACK odd selected: 2.56
+
+💵 Preparing bet...
+💵 Stake entered: 100
+🎯 Place Bet clicked
+⏳ Waiting for bet placement response...
+📢 Placement Response: "Bet Placed and Matched"
+✅ BET PLACEMENT SUCCESSFUL
+✅ Bet successfully placed
+
+⏳ Waiting for real-time wallet update...
+⏳ Waiting for wallet Available to change from 4976.35...
+🔎 V1 Wallet DOM Text: "Avl.: 2781.17
+
+Exp.: -2,495.18"
+💰 V1 Available Parsed: 2781.17
+💰 Current Available: 2781.17
+⚡ Wallet updated in 8 ms
+💰 Latest Available Balance: 2781.17
+⚡ Wallet update time: 8 ms
+
+💰 Capturing wallet AFTER bet...
+⏳ Waiting for authenticated mobile home page...
+✅ Mobile home page is ready
+💰 Capturing wallet...
+🔎 V1 Wallet DOM Text: "Avl.: 2781.17
+
+Exp.: -2,495.18"
+💰 V1 Available Parsed: 2781.17
+🔎 V1 Wallet DOM Text: "Avl.: 2781.17
+
+Exp.: -2,495.18"
+📊 V1 Exposure Parsed: -2495.18
+🔎 V1 Wallet DOM Text: "Avl.: 2781.17
+
+Exp.: -2,495.18"
+💰 V1 Available Parsed: 2781.17
+🔎 V1 Wallet DOM Text: "Avl.: 2781.17
+
+Exp.: -2,495.18"
+📊 V1 Exposure Parsed: -2495.18
+💰 Wallet: Available=2781.17 | Exposure=-2495.18
+Available After: 2781.17
+Exposure After: -2495.18
+
+🔍 Validating Available Balance...
+✅ Available Balance changed
+🔍 Validating Exposure...
+✅ Exposure changed
+🔍 Validating wallet update time...
+✅ Wallet updated within 5 seconds
+
+================================
+✅ REAL-TIME BALANCE TEST PASSED
+================================
+
+================================
+📱 MOBILE SESSION END
+================================
+

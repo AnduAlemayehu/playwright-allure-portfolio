@@ -1,0 +1,59 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+📱 UI Version: v1
+
+==============================
+📱 Mobile Cancel Bet Test
+==============================
+
+================================
+📱 MOBILE CANCEL SINGLE BET
+================================
+⏳ Verifying mobile page loaded...
+✅ Mobile page loaded
+🎯 Opening In Play...
+✅ In Play opened
+⚽ Soccer selected
+🔄 Waiting for events refresh...
+✅ Events refresh completed
+
+🎯 Preparing unmatched bet...
+🔍 Searching for available market...
+🔎 Checking Soccer
+📊 Soccer: 27 BACK odds found
+🎯 Trying BACK odd 1
+✅ Valid market found in Soccer
+🎯 Adjusting odd from 1.02 → 12
+🚀 Clicking Place Bet...
+📩 Placement Response: "Bet Placed but Unmatched"
+✅ Unmatched bet successfully created.
+📂 Opening My Bets...
+✅ My Bets opened
+❌ Cancelling single bet...
+✅ Cancel Bet clicked successfully
+
+✅ Cancel Single Bet Successful
+
+✅ TEST COMPLETED
+
+================================
+✅ CANCEL SINGLE BET TEST COMPLETED
+================================
+
+================================
+📱 MOBILE SESSION END
+================================
+

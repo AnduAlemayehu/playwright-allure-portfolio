@@ -1,0 +1,34 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+🎰 CASINO LOAD PERFORMANCE TEST
+📱 UI VERSION: V1
+==============================
+🎰 Starting Casino load measurement...
+🎰 V1 Casino navigation
+⏱ Casino Load Time: 2.92 s
+✅ Casino loaded within expected time
+
+==============================
+✅ CASINO LOAD TEST COMPLETED
+📱 VERSION: V1
+==============================
+
+================================
+📱 MOBILE SESSION END
+================================
+

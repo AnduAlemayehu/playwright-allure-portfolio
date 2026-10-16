@@ -1,0 +1,47 @@
+
+================================
+📱 MOBILE SESSION START
+================================
+📱 Opening: https://dev-mobile.freedemokit.com/login
+📱 Mobile UI Version detected: V1
+📱 Body class: (none)
+📱 DEPLOYED MOBILE VERSION: V1
+📱 No authenticated session detected
+🔐 Starting V1 login flow...
+🔐 V1 login flow
+🔐 Opening Mobile Login...
+⏳ Waiting for Mobile Home UI...
+✅ Mobile login successful
+💾 Mobile storage state saved
+
+==============================
+💰 MOBILE INSUFFICIENT BALANCE TEST - V1
+==============================
+✅ Mobile page loaded
+💰 V1 Available Balance: 3681.17
+Available Balance: 3681.17
+Invalid Stake: 3782
+⚽ Soccer tab opened
+🔍 Checking SOCCER
+📊 SOCCER: 27 BACK odds found
+🎯 Clicking BACK odd 1
+✅ BACK market found in SOCCER
+✅ Stake input is ready
+✅ Place Bet button is ready
+
+🔹 Validating Insufficient Balance
+💰 Stake entered: 3782
+✅ Insufficient balance message displayed
+✅ Place Bet button disabled
+
+🔹 Validating Successful Placement
+💰 Stake entered: 100
+🎯 Place Bet clicked
+✅ Placement successful: Bet Placed and Matched
+
+✅ TEST COMPLETED
+
+================================
+📱 MOBILE SESSION END
+================================
+

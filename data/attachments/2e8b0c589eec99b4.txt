@@ -1,0 +1,40 @@
+🖥 Body class: mat-typography skin-classic-active
+🖥 Desktop UI Version detected: V1
+🖥 Desktop login via POM...
+🔐 Desktop V1 login flow
+⏳ Verifying desktop login success.
+✅ Desktop login successful!
+
+==============================
+📊 ACCOUNT STATEMENT TEST STARTED
+==============================
+
+🧾 Verifying table columns...
+   ✔ Column verified: Bet ID
+   ✔ Column verified: Settled
+   ✔ Column verified: Matched
+   ✔ Column verified: Description
+   ✔ Column verified: Type
+   ✔ Column verified: Odds
+   ✔ Column verified: Price
+   ✔ Column verified: Stake
+   ✔ Column verified: Status
+   ✔ Column verified: Debit
+   ✔ Column verified: Credit
+   ✔ Column verified: Balance
+✅ All required columns are displayed
+
+📊 Found 129 transaction(s) in table
+
+💰 Verifying row-level balance logic (top 5)...
+   ✔ Row 1 values valid
+   ✔ Row 2 values valid
+   ✔ Row 3 values valid
+   ✔ Row 4 values valid
+   ✔ Row 5 values valid
+✅ Row-level validation passed
+
+==============================
+🎉 ALL ACCOUNT STATEMENT VALIDATIONS PASSED
+==============================
+
